@@ -21,7 +21,7 @@ The actual pace and content covered may vary based on the instructor’s discret
 #| eval: true
 #| echo: false
 #| message: false
-#| warning: false
+#| output: false
 library("magrittr")
 library("data.table")
 variables <- yaml::read_yaml("_schedule.yml")
@@ -30,6 +30,7 @@ dt_load <- data.table::rbindlist(variables_padded, fill = TRUE, idcol = "session
   .[!is.na(commands), commands := sprintf("`%s`", commands)] %>%
   .[commands == "``", commands := NA] 
 cols = c("contents", "mechanics", "objectives", "commands", "questions")
+current_date = Sys.Date()
 dt = dt_load %>%
   replace(is.na(.), "") %>%
   .[, by = .(session), (cols) := lapply(.SD, paste, collapse = "<br>"), .SDcols = cols] %>%
@@ -41,6 +42,36 @@ dt = dt_load %>%
   setnames(.,
            old = c("No", "date", "title", "contents", "reading", "notes", "commands", "objectives"),
            new = c("No", "Date", "Title", "Contents", "Reading", "Notes", "Commands", "Objectives")) %>%
-  .[, c("No", "Date", "Title", "Notes", "Contents", "Reading", "Commands")]
-knitr::kable(dt, format = "markdown", align = "l")
+  .[, Date := as.Date(Date, format = "%Y-%m-%d")] %>%
+  .[, Date := as.Date(Date, format = "%Y-%m-%d")] %>%
+  .[, order := ifelse(Date >= current_date, "next", "previous")]
 ```
+
+### Next
+
+```{r}
+#| eval: true
+#| echo: false
+#| message: false
+#| warning: false
+dt_next = dt %>%
+  .[order == "next"] %>%
+  .[1, ] %>%
+  .[, c("No", "Date", "Title", "Notes", "Contents", "Reading", "Commands")]
+knitr::kable(dt_next, format = "markdown", align = "l")
+```
+
+### Upcoming
+
+```{r}
+#| eval: true
+#| echo: false
+#| message: false
+#| warning: false
+dt_next = dt %>%
+  .[order == "next"] %>%
+  .[2:nrow(.), ] %>%
+  .[, c("No", "Date", "Title", "Notes", "Contents", "Reading", "Commands")]
+knitr::kable(dt_next, format = "markdown", align = "l")
+```
+
