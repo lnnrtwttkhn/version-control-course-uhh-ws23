@@ -154,6 +154,10 @@ session11:
     - "Integration with Zenodo"
 session12:
   date: 2024-01-19
+  title: "Introduction to [DataLad](https://www.datalad.org/) - Version control of (large) datasets"
+  contents: Guest Lecture by [Adina Wagner](https://www.adina-wagner.com/) (DataLad Developer & Project Lead of the [DataLad Handbook](https://handbook.datalad.org/en/latest/))
+session13:
+  date: 2024-01-26
   title: "Submodules and Advanced Topics"
   contents:
     - "Working with Git submodules"
@@ -161,10 +165,6 @@ session12:
     - "Understanding Git internals"
     - "Exploring advanced Git features and options"
     - "Future developments and trends in Git"
-session13:
-  date: 2024-01-26
-  title: "Introduction to [DataLad](https://www.datalad.org/) - Version control of (large) datasets"
-  contents: Guest Lecture by [Adina Wagner](https://www.adina-wagner.com/) (DataLad Developer & Project Lead of the [DataLad Handbook](https://handbook.datalad.org/en/latest/))
 session14:
   date: 2024-02-02
 
