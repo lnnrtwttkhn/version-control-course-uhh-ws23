@@ -16,6 +16,9 @@ session01:
   questions:
     - "Do you have prior coding experience?"
     - "Make a guess: How many published studies are reproducible?"
+  survey:
+    - "[ Course introduction survey](https://version-control-intro.formr.org)"
+    - "[Introduction to version control survey](https://version-control-versioncontrol.formr.org)"
 session02:
   date: 2023-10-27
   title: Command line
@@ -32,6 +35,9 @@ session02:
   objectives:
     - "What are the benefits of the command line?"
     - "Why git works best with text files?"
+  survey:
+    - "[Command Line survey](https://version-control-cli.formr.org)"
+    - " "
 session03:
   date: 2023-11-03
   title: "Git Basics"
@@ -45,6 +51,9 @@ session03:
     - git commit
     - git log
     - git diff
+  survey:
+    - "[Installation survey](https://version-control-installation.formr.org)"
+    - "[Git Basics survey](https://version-control-basics.formr.org)"
 session04:
   date: 2023-11-10
   title: "Git Branching and Merging"
