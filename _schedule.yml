@@ -2,10 +2,11 @@ session01:
   date: 2023-10-20
   title: Introduction to version control
   contents:
+    - Organisational matters
+    - Overview of seminar sessions
+    - Computational reproducibility
     - Introduction to version control
     - Introduction to Git and its advantages
-    - Computational reproducibility
-    - Overview of seminar sessions
   mechanics:
     - "[Particify](https://particify.uni-hamburg.de/)"
     - Pair Programming
@@ -23,13 +24,8 @@ session02:
   date: 2023-10-27
   title: Command line
   contents:
-    - Installation and configuration of Git
-    - GitHub Account
-    - GitHub Student Education Pack
-    - JupyterHub
     - File Systems
     - Command Line
-    - Markdown Basics
   reading:
     - "[Command Line](https://lennartwittkuhn.com/version-control-book/chapters/command-line.html)"
   objectives:
@@ -42,8 +38,12 @@ session03:
   date: 2023-11-03
   title: "Git Basics"
   contents:
-    - "Initializing a Git repository"
-    - "Basic Git commands"
+    - Installation and configuration of Git
+    - GitHub Account
+    - Initializing a Git repository
+    - Basic Git commands
+    - Ignoring files with .gitignore
+    - Good commit messages
   commands:
     - git init
     - git status
@@ -58,13 +58,10 @@ session04:
   date: 2023-11-10
   title: "Git Branching and Merging"
   contents:
-    - "Understanding branches in Git"
-    - "Creating and switching between branches"
+    - Understanding branches in Git
+    - Creating and switching between branches
     - "Merging branches: fast-forward and recursive"
-    - "Resolving merge conflicts"
-    - "Best practices for branch management"
-    - "Ignoring files with .gitignore"
-    - "Good commit messages"
+    - Resolving merge conflicts
   commands:
     - git branch
     - git checkout
@@ -78,16 +75,12 @@ session05:
   title: "Collaborative Workflows with Git"
   contents:
     - "Introduction to remote repositories"
-    - "Introduction to popular Git hosting platforms"
     - "Creating and managing repositories on GitHub"
-    - "Cloning a remote repository"
-    - "Forking a remote repository"
+    - "Cloning/Forking a remote repository"
     - "Pushing and pulling changes"
     - "Branching and merging in a collaborative environment"
-    - "Using pull requests for code review"
-    - "Squashing"
+    - "Using pull requests"
     - "Template repositories"
-    - "Overview of remote repositories"
     - "Alternatives to GitHub"
   commands:
     - git clone
@@ -108,17 +101,19 @@ session07:
   date: 2023-12-01
   title: "Stashing and Rebasing"
   contents:
-    - "Stashing changes for later use"
-    - "Resolving conflicts with stashed changes"
+    - "Stashing and retrieving changes"
+    - "Undoing changes"
+    - "Removing files"
     - "Introduction to rebasing"
     - "Interactive rebasing: reordering, editing, and squashing commits"
-    - "Using rebasing to keep a clean commit history"
 session08:
   date: 2023-12-08
   title: Graphical User Interfaces (GUIs)
   contents:
-    - GitHub Desktop
-    - GitKraken
+    - "Understanding benefits of GUI´s"
+    - "GitHub Desktop"
+    - "GitKraken"
+    - "R studio Git integration"
 session09:
   date: 2023-12-15
   title: "Project Management and Collaboration Tools"
