@@ -59,6 +59,14 @@ session03:
     - "[Git Basics survey](https://version-control-basics.formr.org)"
 session04:
   date: 2023-11-10
+  title: "Quarto workshop"
+  contents:
+    - "Introduction to Quarto"
+    - "Usecases as a scientist"
+    - "Markdown Syntax"
+    - "Using code chunks"
+session05:
+  date: 2023-11-17
   title: "Git Branching and Merging"
   contents:
     - Understanding branches in Git
@@ -75,8 +83,8 @@ session04:
   objectives:
     - "What are benefits of working with branches?"
     - "What is a good commit message?"
-session05:
-  date: 2023-11-17
+session06:
+  date: 2023-11-24
   title: "Collaborative Workflows with Git"
   contents:
     - "Introduction to remote repositories"
@@ -95,8 +103,8 @@ session05:
     - git fetch
   reading:
     - "[Github intro](https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html)"
-session06:
-  date: 2023-11-24
+session07:
+  date: 2023-12-01
   title: "Git Workflows"
   contents:
     - "Understanding different Git workflows"
@@ -104,8 +112,8 @@ session06:
     - "Working with feature branches in Gitflow"
     - "Managing releases and hotfixes"
     - "Pros and cons of different Git workflows"
-session07:
-  date: 2023-12-01
+session08:
+  date: 2023-12-08
   title: "Stashing and Rebasing"
   contents:
     - "Stashing and retrieving changes"
@@ -115,16 +123,16 @@ session07:
     - "Interactive rebasing: reordering, editing, and squashing commits"
   reading:
     - "[Stashing and rebasing](https://lennartwittkuhn.com/version-control-book/chapters/stashing-rebasing.html)"
-session08:
-  date: 2023-12-08
-  title: Graphical User Interfaces (GUIs)
+session09:
+  date: 2023-12-15
+  title: "Graphical User Interfaces (GUIs)"
   contents:
     - "Understanding benefits of GUI´s"
     - "GitHub Desktop"
     - "GitKraken"
     - "Rstudio Git integration"
-session09:
-  date: 2023-12-15
+session10:
+  date: 2023-12-22
   title: "Project Management and Collaboration Tools"
   contents:
     - "Organizing Git repositories and projects"
@@ -134,8 +142,8 @@ session09:
     - "Contributions"
     - "Integrating continuous integration (CI) with Git"
     - "Additional features and services provided by GitHub"
-session10:
-  date: 2023-12-22
+session11:
+  date: 2024-01-12
   title: "Git Tags and Releases"
   contents:
     - "Introduction to tags and their importance"
@@ -144,8 +152,8 @@ session10:
     - "Pushing and pulling tags"
     - "Best practices for tagging in Git"
     - "Integration with Zenodo"
-session11:
-  date: 2024-01-12
+session12:
+  date: 2024-01-19
   title: "Submodules and Advanced Topics"
   contents:
     - "Working with Git submodules"
@@ -153,12 +161,10 @@ session11:
     - "Understanding Git internals"
     - "Exploring advanced Git features and options"
     - "Future developments and trends in Git"
-session12:
-  date: 2024-01-19
-  title: "Introduction to [DataLad](https://www.datalad.org/) - Version control of (large) datasets"
-  contents: Guest Lecture by [Adina Wagner](https://www.adina-wagner.com/) (DataLad Developer & Project Lead of the [DataLad Handbook](https://handbook.datalad.org/en/latest/))
 session13:
   date: 2024-01-26
+  title: "Introduction to [DataLad](https://www.datalad.org/) - Version control of (large) datasets"
+  contents: Guest Lecture by [Adina Wagner](https://www.adina-wagner.com/) (DataLad Developer & Project Lead of the [DataLad Handbook](https://handbook.datalad.org/en/latest/))
 session14:
   date: 2024-02-02
 
