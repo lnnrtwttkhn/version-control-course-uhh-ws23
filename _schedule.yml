@@ -59,8 +59,8 @@ session04:
   date: 2023-11-10
   title: "Git Branching and Merging"
   contents:
-    - "Understanding branches in Git"
-    - "Creating and switching between branches"
+    - Understanding branches in Git
+    - Creating and switching between branches
     - "Merging branches: fast-forward and recursive"
     - "Resolving merge conflicts"
   commands:
