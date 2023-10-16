@@ -45,6 +45,8 @@ session03:
     - "Basic Git commands"
     - "Ignoring files with .gitignore"
     - "Good commit messages"
+  reading:
+    - "[Installation and Setup](https://lennartwittkuhn.com/version-control-book/chapters/installation-setup.html), [First steps with Git](https://lennartwittkuhn.com/version-control-book/chapters/first-steps-git.html)"
   commands:
     - git init
     - git status
@@ -68,6 +70,8 @@ session04:
     - git checkout
     - git switch
     - git merge
+  reading:
+    - "[Branches](https://lennartwittkuhn.com/version-control-book/chapters/branches.html)"
   objectives:
     - "What are benefits of working with branches?"
     - "What is a good commit message?"
@@ -89,6 +93,8 @@ session05:
     - git push
     - git pull
     - git fetch
+  reading:
+    - "[Github intro](https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html)"
 session06:
   date: 2023-11-24
   title: "Git Workflows"
@@ -107,6 +113,8 @@ session07:
     - "Removing files"
     - "Introduction to rebasing"
     - "Interactive rebasing: reordering, editing, and squashing commits"
+  reading:
+    - "[Stashing and rebasing](https://lennartwittkuhn.com/version-control-book/chapters/stashing-rebasing.html)"
 session08:
   date: 2023-12-08
   title: Graphical User Interfaces (GUIs)
