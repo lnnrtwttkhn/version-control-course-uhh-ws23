@@ -2,10 +2,11 @@ session01:
   date: 2023-10-20
   title: Introduction to version control
   contents:
-    - Introduction to version control
-    - Introduction to Git and its advantages
-    - Computational reproducibility
-    - Overview of seminar sessions
+    - "Organisational matters"
+    - "Overview of seminar sessions"
+    - "Computational reproducibility"
+    - "Introduction to version control"
+    - "Introduction to Git and its advantages"
   mechanics:
     - "[Particify](https://particify.uni-hamburg.de/)"
     - Pair Programming
@@ -23,13 +24,9 @@ session02:
   date: 2023-10-27
   title: Command line
   contents:
-    - Installation and configuration of Git
-    - GitHub Account
-    - GitHub Student Education Pack
-    - JupyterHub
-    - File Systems
-    - Command Line
-    - Markdown Basics
+    - "File Systems"
+    - "Benefits of the Command Line"
+    - "Basic Command Line commands"
   reading:
     - "[Command Line](https://lennartwittkuhn.com/version-control-book/chapters/command-line.html)"
   objectives:
@@ -42,8 +39,12 @@ session03:
   date: 2023-11-03
   title: "Git Basics"
   contents:
+    - "Installation and configuration of Git"
+    - "GitHub Account"
     - "Initializing a Git repository"
     - "Basic Git commands"
+    - "Ignoring files with .gitignore"
+    - "Good commit messages"
   commands:
     - git init
     - git status
@@ -62,9 +63,6 @@ session04:
     - "Creating and switching between branches"
     - "Merging branches: fast-forward and recursive"
     - "Resolving merge conflicts"
-    - "Best practices for branch management"
-    - "Ignoring files with .gitignore"
-    - "Good commit messages"
   commands:
     - git branch
     - git checkout
@@ -78,16 +76,12 @@ session05:
   title: "Collaborative Workflows with Git"
   contents:
     - "Introduction to remote repositories"
-    - "Introduction to popular Git hosting platforms"
     - "Creating and managing repositories on GitHub"
-    - "Cloning a remote repository"
-    - "Forking a remote repository"
+    - "Cloning/Forking a remote repository"
     - "Pushing and pulling changes"
     - "Branching and merging in a collaborative environment"
-    - "Using pull requests for code review"
-    - "Squashing"
+    - "Using pull requests"
     - "Template repositories"
-    - "Overview of remote repositories"
     - "Alternatives to GitHub"
   commands:
     - git clone
@@ -108,26 +102,28 @@ session07:
   date: 2023-12-01
   title: "Stashing and Rebasing"
   contents:
-    - "Stashing changes for later use"
-    - "Resolving conflicts with stashed changes"
+    - "Stashing and retrieving changes"
+    - "Undoing changes"
+    - "Removing files"
     - "Introduction to rebasing"
     - "Interactive rebasing: reordering, editing, and squashing commits"
-    - "Using rebasing to keep a clean commit history"
 session08:
   date: 2023-12-08
   title: Graphical User Interfaces (GUIs)
   contents:
-    - GitHub Desktop
-    - GitKraken
+    - "Understanding benefits of GUI´s"
+    - "GitHub Desktop"
+    - "GitKraken"
+    - "Rstudio Git integration"
 session09:
   date: 2023-12-15
   title: "Project Management and Collaboration Tools"
   contents:
     - "Organizing Git repositories and projects"
     - "Collaborating with team members using issues and pull requests"
-    - README.md
-    - Licenses
-    - Contributions
+    - "README.md"
+    - "Licenses"
+    - "Contributions"
     - "Integrating continuous integration (CI) with Git"
     - "Additional features and services provided by GitHub"
 session10:
@@ -144,11 +140,11 @@ session11:
   date: 2024-01-12
   title: "Submodules and Advanced Topics"
   contents:
-    - Working with Git submodules
-    - Integrating external repositories as submodules
-    - Understanding Git internals
-    - Exploring advanced Git features and options
-    - Future developments and trends in Git
+    - "Working with Git submodules"
+    - "Integrating external repositories as submodules"
+    - "Understanding Git internals"
+    - "Exploring advanced Git features and options"
+    - "Future developments and trends in Git"
 session12:
   date: 2024-01-19
   title: "Introduction to [DataLad](https://www.datalad.org/) - Version control of (large) datasets"
