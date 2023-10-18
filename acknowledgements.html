@@ -124,6 +124,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
  <span class="menu-text"><i class="fa-solid fa-clipboard-list" aria-label="clipboard-list"></i> Schedule</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./sessions/index.html" rel="" target="">
+ <span class="menu-text"><i class="fa-solid fa-list-ol" aria-label="list-ol"></i> Sessions</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./team.html" rel="" target="">
  <span class="menu-text"><i class="fa-solid fa-chalkboard-user" aria-label="chalkboard-user"></i> Team</span></a>
   </li>  
@@ -225,25 +229,27 @@ Click here to view the full <code>Makefile</code> of this project.
 <div class="code-with-filename-file">
 <pre><strong>Makefile</strong></pre>
 </div>
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource bash number-lines code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1"></a><span class="co"># define URL to Nextcloud where static files are stored:</span></span>
-<span id="cb1-2"><a href="#cb1-2"></a><span class="va">IMAGES_URL</span><span class="op">=</span>https://cloud.uni-hamburg.de/s/ZndexSjSH9ZqxTG/download</span>
-<span id="cb1-3"><a href="#cb1-3"></a><span class="co"># define a name for the .zip-archive with the cloud contents:</span></span>
-<span id="cb1-4"><a href="#cb1-4"></a><span class="va">IMAGES_ARCHIVE</span><span class="op">=</span>version-control-course.zip</span>
-<span id="cb1-5"><a href="#cb1-5"></a><span class="co"># define the name of the local folder:</span></span>
-<span id="cb1-6"><a href="#cb1-6"></a><span class="va">IMAGES_DIR</span><span class="op">=</span>images/</span>
-<span id="cb1-7"><a href="#cb1-7"></a></span>
-<span id="cb1-8"><a href="#cb1-8"></a><span class="co"># define the default targets of the make command</span></span>
-<span id="cb1-9"><a href="#cb1-9"></a><span class="ex">all:</span> download-images</span>
-<span id="cb1-10"><a href="#cb1-10"></a></span>
-<span id="cb1-11"><a href="#cb1-11"></a><span class="co"># download and extract images:</span></span>
-<span id="cb1-12"><a href="#cb1-12"></a><span class="ex">download-images:</span></span>
-<span id="cb1-13"><a href="#cb1-13"></a>    <span class="fu">wget</span> <span class="va">$(</span><span class="ex">IMAGES_URL</span><span class="va">)</span> <span class="at">-O</span> <span class="va">$(</span><span class="ex">IMAGES_ARCHIVE</span><span class="va">)</span></span>
-<span id="cb1-14"><a href="#cb1-14"></a>    <span class="fu">unzip</span> <span class="at">-j</span> <span class="at">-o</span> <span class="va">$(</span><span class="ex">IMAGES_ARCHIVE</span><span class="va">)</span> <span class="at">-d</span> <span class="va">$(</span><span class="ex">IMAGES_DIR</span><span class="va">)</span></span>
-<span id="cb1-15"><a href="#cb1-15"></a>    <span class="fu">rm</span> <span class="at">-f</span> <span class="va">$(</span><span class="ex">IMAGES_ARCHIVE</span><span class="va">)</span></span>
-<span id="cb1-16"><a href="#cb1-16"></a></span>
-<span id="cb1-17"><a href="#cb1-17"></a><span class="co"># clean downloaded images folder:</span></span>
-<span id="cb1-18"><a href="#cb1-18"></a><span class="ex">clean:</span></span>
-<span id="cb1-19"><a href="#cb1-19"></a>    <span class="fu">rm</span> <span class="at">-rf</span> <span class="va">$(</span><span class="ex">IMAGES_DIR</span><span class="va">)</span><span class="pp">*</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource bash number-lines code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1"></a><span class="va">IMAGES_URL</span><span class="op">=</span>https://cloud.uni-hamburg.de/s/ZndexSjSH9ZqxTG/download</span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="va">IMAGES_ARCHIVE</span><span class="op">=</span>version-control-course.zip</span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="va">IMAGES_DIR</span><span class="op">=</span>images/</span>
+<span id="cb1-4"><a href="#cb1-4"></a></span>
+<span id="cb1-5"><a href="#cb1-5"></a><span class="ex">.PHONY:</span> preview</span>
+<span id="cb1-6"><a href="#cb1-6"></a><span class="ex">preview:</span></span>
+<span id="cb1-7"><a href="#cb1-7"></a>    <span class="ex">quarto</span> preview</span>
+<span id="cb1-8"><a href="#cb1-8"></a></span>
+<span id="cb1-9"><a href="#cb1-9"></a><span class="ex">.PHONY:</span> deploy</span>
+<span id="cb1-10"><a href="#cb1-10"></a><span class="ex">deploy:</span> clean</span>
+<span id="cb1-11"><a href="#cb1-11"></a>    <span class="ex">quarto</span> publish gh-pages</span>
+<span id="cb1-12"><a href="#cb1-12"></a></span>
+<span id="cb1-13"><a href="#cb1-13"></a><span class="ex">.PHONY:</span> images</span>
+<span id="cb1-14"><a href="#cb1-14"></a><span class="ex">images:</span></span>
+<span id="cb1-15"><a href="#cb1-15"></a>    <span class="fu">wget</span> <span class="va">$(</span><span class="ex">IMAGES_URL</span><span class="va">)</span> <span class="at">-O</span> <span class="va">$(</span><span class="ex">IMAGES_ARCHIVE</span><span class="va">)</span></span>
+<span id="cb1-16"><a href="#cb1-16"></a>    <span class="fu">unzip</span> <span class="at">-j</span> <span class="at">-o</span> <span class="va">$(</span><span class="ex">IMAGES_ARCHIVE</span><span class="va">)</span> <span class="at">-d</span> <span class="va">$(</span><span class="ex">IMAGES_DIR</span><span class="va">)</span></span>
+<span id="cb1-17"><a href="#cb1-17"></a>    <span class="fu">rm</span> <span class="at">-f</span> <span class="va">$(</span><span class="ex">IMAGES_ARCHIVE</span><span class="va">)</span></span>
+<span id="cb1-18"><a href="#cb1-18"></a></span>
+<span id="cb1-19"><a href="#cb1-19"></a><span class="ex">.PHONY:</span> clean</span>
+<span id="cb1-20"><a href="#cb1-20"></a><span class="ex">clean:</span></span>
+<span id="cb1-21"><a href="#cb1-21"></a>    <span class="fu">rm</span> <span class="at">-rf</span> _site <span class="va">$(</span><span class="ex">IMAGES_DIR</span><span class="va">)</span><span class="pp">*</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </div>
 </details>

@@ -2,38 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/faq.html</loc>
-    <lastmod>2023-10-18T16:18:16.433Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/index.html</loc>
-    <lastmod>2023-10-18T16:18:15.317Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/schedule.html</loc>
-    <lastmod>2023-10-18T16:18:12.568Z</lastmod>
+    <lastmod>2023-10-18T16:30:35.804Z</lastmod>
   </url>
   <url>
     <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/resources.html</loc>
-    <lastmod>2023-10-18T16:18:10.020Z</lastmod>
+    <lastmod>2023-10-18T16:30:34.552Z</lastmod>
   </url>
   <url>
     <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/acknowledgements.html</loc>
-    <lastmod>2023-10-18T16:18:05.847Z</lastmod>
+    <lastmod>2023-10-18T16:30:30.852Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/mechanics.html</loc>
-    <lastmod>2023-10-18T16:18:07.024Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/implementation.html</loc>
-    <lastmod>2023-10-18T16:18:10.496Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/sessions/index.html</loc>
+    <lastmod>2023-10-18T16:30:24.016Z</lastmod>
   </url>
   <url>
     <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/team.html</loc>
-    <lastmod>2023-10-18T16:18:14.761Z</lastmod>
+    <lastmod>2023-10-18T16:30:22.812Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/schedule.html</loc>
+    <lastmod>2023-10-18T16:30:19.888Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/mechanics.html</loc>
+    <lastmod>2023-10-18T16:30:17.016Z</lastmod>
   </url>
   <url>
     <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/about.html</loc>
-    <lastmod>2023-10-18T16:18:15.841Z</lastmod>
+    <lastmod>2023-10-18T16:30:20.484Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/sessions/info_session01.html</loc>
+    <lastmod>2023-10-18T16:30:23.432Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/sessions/slides_session01.html</loc>
+    <lastmod>2023-10-18T16:30:28.644Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/implementation.html</loc>
+    <lastmod>2023-10-18T16:30:31.412Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lennartwittkuhn.com/version-control-course-uhh-ws23/index.html</loc>
+    <lastmod>2023-10-18T16:30:35.152Z</lastmod>
   </url>
 </urlset>
