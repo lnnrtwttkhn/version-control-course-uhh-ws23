@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "implementation.html",
-    "href": "implementation.html",
-    "title": "Implementation",
-    "section": "",
-    "text": "In the Supporting Information S2 “Tips for course organizers” of their article “Ten simple rules for implementing open and reproducible research practices after attending a training course” (License: CC BY 4.0), Heise et al. (2023) outline actions that course organizers can take to prepare and support course participants in implementing what they have learned once they return to their research environment."
-  },
-  {
-    "objectID": "implementation.html#when-designing-a-course",
-    "href": "implementation.html#when-designing-a-course",
-    "title": "Implementation",
-    "section": "When designing a course",
-    "text": "When designing a course\n\n1. Consider participants’ background and research type when designing materials.\n\n\n2. Cover a range of topics in your course.\n\n\n3. Talk about top-down robust research policies.\n\n\n4. Include information on “soft skills” related to behavioral change in research groups.\n\n\n5. Give participants time to start implementing practices.\n\n\n6. Consider offering a series of sessions, instead of covering many topics in a short period of time."
-  },
-  {
-    "objectID": "implementation.html#when-participants-return-to-their-own-research-environments",
-    "href": "implementation.html#when-participants-return-to-their-own-research-environments",
-    "title": "Implementation",
-    "section": "When participants return to their own research environments",
-    "text": "When participants return to their own research environments\n\n1. Make your teaching materials and resources open and re-usable.\n\n\n2. Create (and support) communities.\n\n\n3. Support implementation.\n\n\n4. Consider follow-up events"
-  },
-  {
-    "objectID": "implementation.html#references",
-    "href": "implementation.html#references",
-    "title": "Implementation",
-    "section": "References",
-    "text": "References\n\n\nHeise, V., Holman, C., Lo, H., Lyras, E. M., Adkins, M. C., Aquino, M. R. J., Bougioukas, K. I., Bray, K. O., Gajos, M., Guo, X., Hartling, C., Huerta-Gutierrez, R., Jindrová, M., Kenney, J. P. M., Kępińska, A. P., Kneller, L., Lopez-Rodriguez, E., Mühlensiepen, F., Richards, A., … Weissgerber, T. L. (2023). Ten simple rules for implementing open and reproducible research practices after attending a training course. PLOS Computational Biology, 19(1), e1010750. https://doi.org/10.1371/journal.pcbi.1010750. License: CC BY 4.0."
-  },
-  {
     "objectID": "faq.html",
     "href": "faq.html",
     "title": "FAQ",
@@ -47,6 +19,20 @@
     "title": "FAQ",
     "section": "Course",
     "text": "Course\n\n\n\n\n\n\nWhen will the course take place?\n\n\n\nThe course will take place in the Winter semester 2023/24. The lecture period is from 9 October 2023 to 27 January 2024. The exact times and dates will be announced soon.\n\n\n\n\n\n\n\n\nWhere will the course take place?\n\n\n\nThe course will take place at the Institute of Psychology at the University of Hamburg. The exact room will be announced soon."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Effective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data",
+    "section": "",
+    "text": "Welcome!\nThis is the website for the full-semester seminar course on “Effective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data” at the University of Hamburg, taught by Dr. Lennart Wittkuhn.\n\n What? Full-semester course on version control\n When? Winter 23/24 (Oct-Feb), Fridays, 10:15 - 11:45\n Where? University of Hamburg (VMP 5, 4047)\n Who? Psychology Master’s students\n Focus? Psychology and Cognitive Neuroscience\n How? Read about how this course will work.\n\n Jobs? Join our team!\n Code? Find all source code on GitHub!\n Details? Read our project proposal!\n Bug? Open an issue or send an email!\n Questions? Read the FAQ or send an email!\n Thanks! Thanks to all our supporters!\n\n\nThe illustration on this website is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "When? Winter 2023/24 (October to February), every Friday, 10:15 to 11:45 (detailed schedule below)\n Where? University of Hamburg, Von-Melle-Park 5, Room 4047\n\n\n\n\n\n\nThe course schedule is still under construction! \n\n\n\n\n\nWe are continuously updating information on this website. Watch this space for any updates. If you have any urgent questions, always feel free to write an email. Note, that this syllabus provides a comprehensive outline of the topics to be covered in the course. The actual pace and content covered may vary based on the instructor’s discretion and the needs of the students.\n\n\n\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey \n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey \n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitGitHub AccountInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation and Setup, First steps with Git\nInstallation surveyGit Basics survey\n\n\n4\n2023-11-10\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n\n\n\n\n5\n2023-11-17\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflicts\n Branches\n\n\n\n6\n2023-11-24\nCollaborative Workflows with Git\n\nIntroduction to remote repositoriesCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentUsing pull requestsTemplate repositoriesAlternatives to GitHub\n Github intro\n\n\n\n7\n2023-12-01\nGit Workflows\n\nUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in GitflowManaging releases and hotfixesPros and cons of different Git workflows\n\n\n\n\n8\n2023-12-08\nStashing and Rebasing\n\nStashing and retrieving changesUndoing changesRemoving filesIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commits\n Stashing and rebasing\n\n\n\n9\n2023-12-15\nGraphical User Interfaces (GUIs)\n\nUnderstanding benefits of GUI´sGitHub DesktopGitKrakenRstudio Git integration\n\n\n\n\n10\n2023-12-22\nProject Management and Collaboration Tools\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsREADME.mdLicensesContributionsIntegrating continuous integration (CI) with GitAdditional features and services provided by GitHub\n\n\n\n\n11\n2024-01-12\nGit Tags and Releases\n\nIntroduction to tags and their importanceCreating lightweight and annotated tagsManaging versions and releases with tagsPushing and pulling tagsBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n12\n2024-01-19\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n13\n2024-01-26\nSubmodules and Advanced Topics\n\nWorking with Git submodulesIntegrating external repositories as submodulesUnderstanding Git internalsExploring advanced Git features and optionsFuture developments and trends in Git\n\n\n\n\n14\n2024-02-02"
   },
   {
     "objectID": "resources.html#all",
@@ -96,13 +82,6 @@
     "title": "Acknowledgements & Attribution",
     "section": "Website",
     "text": "Website\n\nCode\nThis website is made with 🖤 and Quarto.\nThe source code for this website can be found on GitHub .\n\n\nImages\nImages are stored on Nextcloud (UHH Cloud). They can be retrieved using make download-images.\n\n\nClick here to view the full Makefile of this project.\n\n\n\n\nMakefile\n\n# define URL to Nextcloud where static files are stored:\nIMAGES_URL=https://cloud.uni-hamburg.de/s/ZndexSjSH9ZqxTG/download\n# define a name for the .zip-archive with the cloud contents:\nIMAGES_ARCHIVE=version-control-course.zip\n# define the name of the local folder:\nIMAGES_DIR=images/\n\n# define the default targets of the make command\nall: download-images\n\n# download and extract images:\ndownload-images:\n    wget $(IMAGES_URL) -O $(IMAGES_ARCHIVE)\n    unzip -j -o $(IMAGES_ARCHIVE) -d $(IMAGES_DIR)\n    rm -f $(IMAGES_ARCHIVE)\n\n# clean downloaded images folder:\nclean:\n    rm -rf $(IMAGES_DIR)*\n\n\n\nThe illustration on the homepage is an illustration created by Scriberia with The Turing Way community. It is used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.\n\n\nFont\nThis website uses the Atkinson Hyperlegible font. Copyright © 2020, Braille Institute of America, Inc., https://www.brailleinstitute.org/freefont with Reserved Typeface Name Atkinson Hyperlegible Font. Details of the license can be found here.\n\n\nAnalytics\nWe use Plausible for website analytics. Plausible is an “intuitive, lightweight and open source web analytics”, does not use cookies and is fully compliant with GDPR, CCPA and PECR.\n\n\nLicense\nAll contents are licensed under CC BY-SA 4.0, unless indicated otherwise.\n\n\nContact\nDid you spot an error? Is there an issue with the website? Do you have feedback, questions or comments? We would love to hear from you! Open an issue on GitHub or write an email."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "When? Winter 2023/24 (October to February), every Friday, 10:15 to 11:45 (detailed schedule below)\n Where? University of Hamburg, Von-Melle-Park 5, Room 4047\n\n\n\n\n\n\nThe course schedule is still under construction! \n\n\n\n\n\nWe are continuously updating information on this website. Watch this space for any updates. If you have any urgent questions, always feel free to write an email. Note, that this syllabus provides a comprehensive outline of the topics to be covered in the course. The actual pace and content covered may vary based on the instructor’s discretion and the needs of the students.\n\n\n\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nCommands\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nIntroduction to version controlIntroduction to Git and its advantagesComputational reproducibilityOverview of seminar sessions\n Intro to version control\n\n\n\n2\n2023-10-27\nCommand line\n\nInstallation and configuration of GitGitHub AccountGitHub Student Education PackJupyterHubFile SystemsCommand LineMarkdown Basics\n Command Line\n\n\n\n3\n2023-11-03\nGit Basics\n\nInitializing a Git repositoryBasic Git commands\n\ngit initgit statusgit addgit commitgit loggit diff\n\n\n4\n2023-11-10\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsBest practices for branch managementIgnoring files with .gitignoreGood commit messages\n\ngit branchgit checkoutgit switchgit merge\n\n\n5\n2023-11-17\nCollaborative Workflows with Git\n\nIntroduction to remote repositoriesIntroduction to popular Git hosting platformsCreating and managing repositories on GitHubCloning a remote repositoryForking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentUsing pull requests for code reviewSquashingTemplate repositoriesOverview of remote repositoriesAlternatives to GitHub\n\ngit clonegit remotegit pushgit pullgit fetch\n\n\n6\n2023-11-24\nGit Workflows\n\nUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in GitflowManaging releases and hotfixesPros and cons of different Git workflows\n\n\n\n\n7\n2023-12-01\nStashing and Rebasing\n\nStashing changes for later useResolving conflicts with stashed changesIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commitsUsing rebasing to keep a clean commit history\n\n\n\n\n8\n2023-12-08\nGraphical User Interfaces (GUIs)\n\nGitHub DesktopGitKraken\n\n\n\n\n9\n2023-12-15\nProject Management and Collaboration Tools\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsREADME.mdLicensesContributionsIntegrating continuous integration (CI) with GitAdditional features and services provided by GitHub\n\n\n\n\n10\n2023-12-22\nGit Tags and Releases\n\nIntroduction to tags and their importanceCreating lightweight and annotated tagsManaging versions and releases with tagsPushing and pulling tagsBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n11\n2024-01-12\nSubmodules and Advanced Topics\n\nWorking with Git submodulesIntegrating external repositories as submodulesUnderstanding Git internalsExploring advanced Git features and optionsFuture developments and trends in Git\n\n\n\n\n12\n2024-01-19\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n13\n2024-01-26\n\n\n\n\n\n\n\n14\n2024-02-02"
   },
   {
     "objectID": "mechanics.html",
@@ -196,11 +175,32 @@
     "text": "References\n\n\nDeslauriers, L., McCarty, L. S., Miller, K., Callaghan, K., & Kestin, G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences, 116(39), 19251–19257. https://doi.org/10.1073/pnas.1821936116. License: CC BY-NC-ND.\n\n\nHeise, V., Holman, C., Lo, H., Lyras, E. M., Adkins, M. C., Aquino, M. R. J., Bougioukas, K. I., Bray, K. O., Gajos, M., Guo, X., Hartling, C., Huerta-Gutierrez, R., Jindrová, M., Kenney, J. P. M., Kępińska, A. P., Kneller, L., Lopez-Rodriguez, E., Mühlensiepen, F., Richards, A., … Weissgerber, T. L. (2023). Ten simple rules for implementing open and reproducible research practices after attending a training course. PLOS Computational Biology, 19(1), e1010750. https://doi.org/10.1371/journal.pcbi.1010750. License: CC BY 4.0.\n\n\nMillman, K. J., Brett, M., Barnowski, R., & Poline, J.-B. (2018). Teaching computational reproducibility for neuroimaging. Frontiers in Neuroscience, 12. https://doi.org/10.3389/fnins.2018.00727.\n\n\nWeissgerber, T. L. (2023). Bridging the gap: From education to implementation. https://doi.org/10.5281/ZENODO.7974345. License: CC BY 4.0.\n\n\nWilliams, L. (2001). Integrating pair programming into a software development process. Proceedings 14th Conference on Software Engineering Education and Training. ’In Search of a Software Engineering Profession’ (Cat. No.PR01059). https://doi.org/10.1109/csee.2001.913816. License: Unknown.\n\n\nWilson, R. C. (2021). NSCS 344 — modeling the mind. University of Arizona. https://u.arizona.edu/~bob/web_NSCS344/. License: Unknown."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Effective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data",
+    "objectID": "implementation.html",
+    "href": "implementation.html",
+    "title": "Implementation",
     "section": "",
-    "text": "Welcome!\nThis is the website for the full-semester seminar course on “Effective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data” at the University of Hamburg, taught by Dr. Lennart Wittkuhn.\n\n What? Full-semester course on version control\n When? Winter 23/24 (Oct-Feb), Fridays, 10:15 - 11:45\n Where? University of Hamburg (VMP 5, 4047)\n Who? Psychology Master’s students\n Focus? Psychology and Cognitive Neuroscience\n How? Read about how this course will work.\n\n Jobs? Join our team!\n Code? Find all source code on GitHub!\n Details? Read our project proposal!\n Bug? Open an issue or send an email!\n Questions? Read the FAQ or send an email!\n Thanks! Thanks to all our supporters!\n\n\nThe illustration on this website is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807"
+    "text": "In the Supporting Information S2 “Tips for course organizers” of their article “Ten simple rules for implementing open and reproducible research practices after attending a training course” (License: CC BY 4.0), Heise et al. (2023) outline actions that course organizers can take to prepare and support course participants in implementing what they have learned once they return to their research environment."
+  },
+  {
+    "objectID": "implementation.html#when-designing-a-course",
+    "href": "implementation.html#when-designing-a-course",
+    "title": "Implementation",
+    "section": "When designing a course",
+    "text": "When designing a course\n\n1. Consider participants’ background and research type when designing materials.\n\n\n2. Cover a range of topics in your course.\n\n\n3. Talk about top-down robust research policies.\n\n\n4. Include information on “soft skills” related to behavioral change in research groups.\n\n\n5. Give participants time to start implementing practices.\n\n\n6. Consider offering a series of sessions, instead of covering many topics in a short period of time."
+  },
+  {
+    "objectID": "implementation.html#when-participants-return-to-their-own-research-environments",
+    "href": "implementation.html#when-participants-return-to-their-own-research-environments",
+    "title": "Implementation",
+    "section": "When participants return to their own research environments",
+    "text": "When participants return to their own research environments\n\n1. Make your teaching materials and resources open and re-usable.\n\n\n2. Create (and support) communities.\n\n\n3. Support implementation.\n\n\n4. Consider follow-up events"
+  },
+  {
+    "objectID": "implementation.html#references",
+    "href": "implementation.html#references",
+    "title": "Implementation",
+    "section": "References",
+    "text": "References\n\n\nHeise, V., Holman, C., Lo, H., Lyras, E. M., Adkins, M. C., Aquino, M. R. J., Bougioukas, K. I., Bray, K. O., Gajos, M., Guo, X., Hartling, C., Huerta-Gutierrez, R., Jindrová, M., Kenney, J. P. M., Kępińska, A. P., Kneller, L., Lopez-Rodriguez, E., Mühlensiepen, F., Richards, A., … Weissgerber, T. L. (2023). Ten simple rules for implementing open and reproducible research practices after attending a training course. PLOS Computational Biology, 19(1), e1010750. https://doi.org/10.1371/journal.pcbi.1010750. License: CC BY 4.0."
   },
   {
     "objectID": "team.html#project-leader-instructor",
