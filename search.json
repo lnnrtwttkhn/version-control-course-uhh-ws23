@@ -224,22 +224,22 @@
     "text": "Description\nThe digital objects on our computers are in a constant state of flux. Manuscripts, programming code and research data are changed continuously over long periods of time, often in close collaboration with others. A systematic documentation of these changes forms the basis for controlled and reproducible work on code and data. In a seminar with hands-on exercises, course participants will learn “Effective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data”.\nVersion control is the notebook for a digital world and Git is probably the best known version control system. Git allows to precisely document changes in digital objects and thus to track who changed what, when, how and why in a file. Changes can be revised, versions can be compared and restored. In addition, it is possible to work simultaneously on the same file and systematically integrate parallel versions. In addition, Git enables effective collaboration. Via platforms such as GitHub or GitLab, code and data can be shared with the world, transparently viewed by others, used and collaboratively developed. In this way, version control helps to ensure that knowledge generated from data is transparent, accessible and verifiable. As an effective method for storing and manipulating code and data, version control thus represents a core competency of data literacy.\nBecause Git was developed for versioning small, text-based files (such as programming code), its usability with larger, binary files (such as image or video data) is limited for technical reasons. The open-source software DataLad extends the features of Git to provide version control for large data sets (up to several terabytes). DataLad is applicable to arbitrary data structures and is independent of any central infrastructure or third-party vendors. Like Git, DataLad allows tracking changes to data and restoring previous versions of a data set. Furthermore, DataLad allows you to capture the digital provenance of data and accurately reproduce analyses of the data. In addition, DataLad allows to publish data on a variety of platforms or use existing data."
   },
   {
-    "objectID": "sessions/info_session01.html",
-    "href": "sessions/info_session01.html",
+    "objectID": "sessions/session01.html",
+    "href": "sessions/session01.html",
     "title": "Introduction to Version Control",
     "section": "",
     "text": "Slides"
   },
   {
-    "objectID": "sessions/info_session01.html#slides",
-    "href": "sessions/info_session01.html#slides",
+    "objectID": "sessions/session01.html#slides",
+    "href": "sessions/session01.html#slides",
     "title": "Introduction to Version Control",
     "section": "Slides",
     "text": "Slides"
   },
   {
-    "objectID": "sessions/info_session01.html#email",
-    "href": "sessions/info_session01.html#email",
+    "objectID": "sessions/session01.html#email",
+    "href": "sessions/session01.html#email",
     "title": "Introduction to Version Control",
     "section": "Email",
     "text": "Email\nDear course participants,\nYou are receiving this email because you are enrolled in the course “Version Control of Code & Data”, taking place this winter semester at the University of Hamburg. We are excited that you have signed up for this course and can’t wait to delve into the world of version control with you. Our first session takes place this Friday, October 20, 2023, from 10:15 to 11:45 a.m. at Von-Melle-Park 5, Room 4047.\nIn order to tailor the course to your prior experience and needs, we have prepared a short survey with a few questions. Please complete the survey before our first session, ideally by Thursday evening (October 19, 2023). This will give us enough time to review your responses before our first session on Friday.\nThe survey can be accessed here: https://version-control-intro.formr.org\nA few technical remarks about the survey: The survey will ask you for two codewords: a personal codeword and a course code.\nThe personal codeword is used to associate your responses with a unique identifier. This will allow us to relate your responses across surveys while ensuring anonymity. Note that you can also complete the survey without providing a personal codeword. By providing a personal codeword, you will allow us to draw more detailed insights from your responses that will help us improve the course for you. The survey will contain an explanation of how to generate your personal codeword.\nThe course codeword is used to tag your responses as coming from a course participant at the University of Hamburg. We might also use the survey to collect responses from participants in other course settings. The course codeword allows us to distinguish responses from different course settings.\nThe course codeword is: -------- (course password will be announced during the course)\nApart from answering the survey, you don’t need to prepare anything else for our first session on Friday.\nFurther information about the course can be found on our course website: https://lennartwittkuhn.com/version-control-course-uhh-ws23/\nIf you have any questions, feel free to contact us directly via email.\nWe are looking forward to seeing you for the first session on Friday!\nBest wishes, Lennart Wittkuhn (Instructor) & Konrad Pagenstedt (Teaching Assistant)"
