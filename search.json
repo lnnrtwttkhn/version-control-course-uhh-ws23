@@ -182,6 +182,27 @@
     "text": "Footnotes\n\n\n(Source: Wikipedia)\nsee DataLad dataset of 80TB / 15 million files from the Human Connectome Project (see details)\npull requests on GitHub, merge requests on GitLab"
   },
   {
+    "objectID": "sessions/slides_session02.html#contact",
+    "href": "sessions/slides_session02.html#contact",
+    "title": "Session 2: Command Line",
+    "section": "Contact",
+    "text": "Contact\n\n\nInstructor\n\nDr. Lennart Wittkuhn\n lennart.wittkuhn@uni-hamburg.de  GitHub  lennartwittkuhn.com\n\nTeaching Assistant\n\nKonrad Pagenstedt\n konrad.pagenstedt@uni-hamburg.de  GitHub"
+  },
+  {
+    "objectID": "sessions/slides_session02.html#schedule",
+    "href": "sessions/slides_session02.html#schedule",
+    "title": "Session 2: Command Line",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey \n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey \n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitGitHub AccountInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation and Setup, First steps with Git\nInstallation surveyGit Basics survey\n\n\n4\n2023-11-10\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n\n\n\n\n5\n2023-11-17\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflicts\n Branches\n\n\n\n6\n2023-11-24\nCollaborative Workflows with Git\n\nIntroduction to remote repositoriesCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentUsing pull requestsTemplate repositoriesAlternatives to GitHub\n Github intro\n\n\n\n7\n2023-12-01\nGit Workflows\n\nUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in GitflowManaging releases and hotfixesPros and cons of different Git workflows\n\n\n\n\n8\n2023-12-08\nStashing and Rebasing\n\nStashing and retrieving changesUndoing changesRemoving filesIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commits\n Stashing and rebasing\n\n\n\n9\n2023-12-15\nGraphical User Interfaces (GUIs)\n\nUnderstanding benefits of GUI´sGitHub DesktopGitKrakenRstudio Git integration\n\n\n\n\n10\n2023-12-22\nProject Management and Collaboration Tools\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsREADME.mdLicensesContributionsIntegrating continuous integration (CI) with GitAdditional features and services provided by GitHub\n\n\n\n\n11\n2024-01-12\nGit Tags and Releases\n\nIntroduction to tags and their importanceCreating lightweight and annotated tagsManaging versions and releases with tagsPushing and pulling tagsBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n12\n2024-01-19\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n13\n2024-01-26\nSubmodules and Advanced Topics\n\nWorking with Git submodulesIntegrating external repositories as submodulesUnderstanding Git internalsExploring advanced Git features and optionsFuture developments and trends in Git\n\n\n\n\n14\n2024-02-02"
+  },
+  {
+    "objectID": "sessions/slides_session02.html#todays-chapter",
+    "href": "sessions/slides_session02.html#todays-chapter",
+    "title": "Session 2: Command Line",
+    "section": "Today’s chapter",
+    "text": "Today’s chapter\n lennartwittkuhn.com/version-control-book/chapters/command-line.html\n\n\n\nVersion control of code and data"
+  },
+  {
     "objectID": "sessions/session01.html",
     "href": "sessions/session01.html",
     "title": "Introduction to Version Control",
@@ -350,11 +371,25 @@
     "text": "Student Research Assistant\n\n\nYou?\nWe are looking for a student research assistant (SHK/WHK)!\n\n Tasks: Supporting the teaching project (preparation of teaching materials, evaluation, project reporting, etc.)\n Duration: as soon as possible to 31.03.2024\n Hours: up to 38 hours per month (flexible working hours)\n Salary: SHK: 12.00 € / hour | WHK: 13.95 € / hour\n\nDetails can be found on the project website and in this PDF!"
   },
   {
+    "objectID": "sessions/session02.html",
+    "href": "sessions/session02.html",
+    "title": "Command Line",
+    "section": "",
+    "text": "Slides"
+  },
+  {
+    "objectID": "sessions/session02.html#slides",
+    "href": "sessions/session02.html#slides",
+    "title": "Command Line",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
     "objectID": "sessions/index.html",
     "href": "sessions/index.html",
     "title": "Sessions",
     "section": "",
-    "text": "Introduction to Version Control\n\n\nSession 01\n\n\n\n\n\n\nOctober 20, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Command Line\n\n\nSession 02\n\n\n\n\n\n\nOctober 27, 2023\n\n\n\n\n\n\n\n\nIntroduction to Version Control\n\n\nSession 01\n\n\n\n\n\n\nOctober 20, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "acknowledgements.html",
