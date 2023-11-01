@@ -45,7 +45,7 @@ We are very much looking forward to our next session on Friday when we will take
 For this session, it is important that you verify whether Git is installed on your computer.
 To do this, we kindly ask you to complete the following tasks before our session on Friday:
 
-1. Please review the "Installation" chapter in our course guide:
+1. Please review the "Installation" chapter in our course guide: https://lennartwittkuhn.com/version-control-book/chapters/installation.html
 1. Complete our survey regarding the installation process: https://version-control-installation.formr.org
 
 Overall, this should not take more than 15 minutes.
