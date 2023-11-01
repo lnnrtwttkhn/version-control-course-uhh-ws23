@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2023-11-03">
 
-<title>Version Control of Code and Data - Sessions</title>
+<title>Version Control of Code and Data - First steps with Git</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,12 +31,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../images/git-icon.svg" rel="icon" type="image/svg+xml">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -63,52 +61,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-sessions .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-sessions'] = new List('listing-sessions', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js"></script>
-  <script>document.addEventListener("DOMContentLoaded", function () {
- var mathElements = document.getElementsByClassName("math");
- var macros = [];
- for (var i = 0; i < mathElements.length; i++) {
-  var texText = mathElements[i].firstChild;
-  if (mathElements[i].tagName == "SPAN") {
-   katex.render(texText.data, mathElements[i], {
-    displayMode: mathElements[i].classList.contains('display'),
-    throwOnError: false,
-    macros: macros,
-    fleqn: false
-   });
-}}});
-  </script>
-  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css">
 
 </head>
 
@@ -137,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text"><i class="fa-solid fa-clipboard-list" aria-label="clipboard-list"></i> Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../sessions/index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../sessions/index.html" rel="" target="">
  <span class="menu-text"><i class="fa-solid fa-list-ol" aria-label="list-ol"></i> Sessions</span></a>
   </li>  
   <li class="nav-item">
@@ -183,94 +136,85 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#slides" id="toc-slides" class="nav-link active" data-scroll-target="#slides">Slides</a></li>
+  <li><a href="#email" id="toc-email" class="nav-link" data-scroll-target="#email">Email</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content page-columns page-full column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+
+
+<div class="quarto-about-solana column-page-left">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Sessions</h1>
+<h1 class="title">First steps with Git</h1>
+<p class="subtitle lead">Session 03</p>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 3, 2023</p>
+    </div>
   </div>
-  
+  </div>
+</header> <div class="about-links">
+  <a href="/slides_session02.qmd" class="about-link" rel="" target="">
+    <i class="bi bi-display"></i>
+     <span class="about-link-text">Slides</span>
+  </a>
+  <a href="https://lennartwittkuhn.com/version-control-book/chapters/setup.html" class="about-link" rel="" target="">
+    <i class="bi bi-book"></i>
+     <span class="about-link-text">Chapter: Setup</span>
+  </a>
+  <a href="https://lennartwittkuhn.com/version-control-book/chapters/first-steps-git.html" class="about-link" rel="" target="">
+    <i class="bi bi-book"></i>
+     <span class="about-link-text">Chapter: First steps with Git</span>
+  </a>
+  <a href="https://version-control-basics.formr.org/" class="about-link" rel="" target="">
+    <i class="bi bi-input-cursor-text"></i>
+     <span class="about-link-text">Exercises</span>
+  </a>
+</div>
+      <div class="about-contents"><div id="hero-heading">
+</div></div>
+    </div>
+  </div>
+</div>
 
-</header>
-
-<div id="listing-sessions" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1698969600000" data-listing-file-modified-sort="1698842156208" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="First steps with Git">
-<div class="body">
-<a href="../sessions/session03.html">
-<h3 class="no-anchor listing-title">
-First steps with Git
-</h3>
-<div class="listing-subtitle">
-Session 03
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session03.html">
-<div class="listing-date">
-November 3, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1698364800000" data-listing-file-modified-sort="1698842156208" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Command Line">
-<div class="body">
-<a href="../sessions/session02.html">
-<h3 class="no-anchor listing-title">
-Command Line
-</h3>
-<div class="listing-subtitle">
-Session 02
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session02.html">
-<div class="listing-date">
-October 27, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1697760000000" data-listing-file-modified-sort="1698842156208" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Introduction to Version Control">
-<div class="body">
-<a href="../sessions/session01.html">
-<h3 class="no-anchor listing-title">
-Introduction to Version Control
-</h3>
-<div class="listing-subtitle">
-Session 01
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session01.html">
-<div class="listing-date">
-October 20, 2023
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+<section id="slides" class="level2">
+<h2 data-anchor-id="slides">Slides</h2>
+<iframe width="100%" height="500" src="slides_session03.html"></iframe>
+</section>
+<section id="email" class="level2">
+<h2 data-anchor-id="email">Email</h2>
+<p>Dear course participants,</p>
+<p>You are receiving this email because you are enrolled in the course “Version Control of Code &amp; Data”, which is taking place this winter semester at the University of Hamburg. This is one of the rare occasions when we will ask you to complete a small task outside of class time.</p>
+<p>We are very much looking forward to our next session on Friday when we will take our first steps in using Git! For this session, it is important that you verify whether Git is installed on your computer. To do this, we kindly ask you to complete the following tasks before our session on Friday:</p>
+<ol type="1">
+<li>Please review the “Installation” chapter in our course guide: https://lennartwittkuhn.com/version-control-book/chapters/installation.html</li>
+<li>Complete our survey regarding the installation process: https://version-control-installation.formr.org</li>
+</ol>
+<p>Overall, this should not take more than 15 minutes.</p>
+<p>Please ensure that you complete the survey before our next session, ideally by Thursday evening (November 2nd, 2023). This will give us enough time to review your responses before our first session on Friday.</p>
+<p>Apart from checking your Git installation and answering the survey, you don’t need to prepare anything else for our next session on Friday.</p>
+<p>Further information about the course can be found on our course website: https://lennartwittkuhn.com/version-control-course-uhh-ws23/</p>
+<p>If you encounter any issues or have any questions, please feel free to contact us directly via email.</p>
+<p>We are looking forward to seeing you for the next session on Friday!</p>
+<p>Best wishes, Lennart Wittkuhn (Instructor) &amp; Konrad Pagenstedt (Teaching Assistant)</p>
 
 
 
+</section>
 
 </main> <!-- /main -->
 <script defer="" data-domain="lennartwittkuhn.com/version-control-course-uhh-ws23" src="https://plausible.io/js/script.js"></script>
@@ -294,13 +238,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
