@@ -110,6 +110,8 @@ session08:
   objectives:
     - "What are benefits of working with branches?"
     - "What is a good commit message?"
+  survey:
+  - "[Git branches survey](https://version-control-branches.formr.org)"
 session09:
   date: 2023-12-15
   title: "Collaborative Workflows with Git"
@@ -131,16 +133,10 @@ session09:
     - git fetch
   reading:
     - "[Github intro](https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html)"
+   survey:
+    - "[GitHub intro survey](https://version-control-github.formr.org)"
 session10:
-  date: 2023-12-22
-  title: "Graphical User Interfaces (GUIs)"
-  contents:
-    - "Understanding benefits of GUI´s"
-    - "GitHub Desktop"
-    - "GitKraken"
-    - "Rstudio Git integration"
-session11:
-  date: 2024-01-12
+  date: 2024-12-22
   title: "Intermediate commands"
   contents:
     - "Stashing and retrieving changes"
@@ -150,6 +146,14 @@ session11:
     - "Interactive rebasing: reordering, editing, and squashing commits"
   reading:
     - "[Stashing and rebasing](https://lennartwittkuhn.com/version-control-book/chapters/stashing-rebasing.html)"
+session11:
+  date: 2023-01-12
+  title: "Graphical User Interfaces (GUIs)"
+  contents:
+    - "Understanding benefits of GUI´s"
+    - "GitHub Desktop"
+    - "GitKraken"
+    - "Rstudio Git integration"
 session12:
   date: 2024-01-19
   title: "Project Management and Collaboration Tools"
