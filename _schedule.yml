@@ -112,6 +112,7 @@ session08:
     - "What is a good commit message?"
   survey:
   - "[Git branches survey](https://version-control-branches.formr.org)"
+  - ""
 session09:
   date: 2023-12-15
   title: "Collaborative Workflows with Git"
@@ -133,8 +134,9 @@ session09:
     - git fetch
   reading:
     - "[Github intro](https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html)"
-   survey:
+  survey:
     - "[GitHub intro survey](https://version-control-github.formr.org)"
+    - ""
 session10:
   date: 2024-12-22
   title: "Intermediate commands"
