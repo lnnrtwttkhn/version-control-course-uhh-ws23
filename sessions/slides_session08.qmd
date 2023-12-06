@@ -29,9 +29,19 @@ metadata-files:
 create_schedule()
 ```
 
+## Looking back: Git basics
+
+-   **Survey results**
+
+## Today's topic: Branches
+
+::: fragment
+![](../images/branch_session8.jpg){width="70%"}
+:::
+
 ## Today's chapter
 
-{{< fa brands internet-explorer >}} [https://lennartwittkuhn.com/version-control-book/chapters/branches.html](https://lennartwittkuhn.com/version-control-book/chapters/branches.html)
+{{< fa brands internet-explorer >}} <https://lennartwittkuhn.com/version-control-book/chapters/branches.html>
 
 ```{=html}
 <iframe width="100%" height="80%" src="https://lennartwittkuhn.com/version-control-book/chapters/branches.html" title="Version Control Book"></iframe>
@@ -50,3 +60,7 @@ Ask questions!
 
 Let's *git* started!
 :::
+::: fragment
+and *branch* out
+:::
+
