@@ -1,6 +1,6 @@
 ---
 title: "GitHub"
-subtitle: "Session 09"
+subtitle: "Session 11"
 date: 2024-01-12
 about:
   id: hero-heading
