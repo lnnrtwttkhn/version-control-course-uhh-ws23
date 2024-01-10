@@ -16,7 +16,7 @@ metadata-files:
 ## How are you today?
 
 ::: fragment
-![](../images/yoda_mood.jpg){width="50%"}
+![](../images/mood-yoda.jpg){width="50%"}
 :::
 
 ## Schedule
@@ -39,7 +39,7 @@ create_schedule()
 
 ### Example
 
-![](../images/issue_example.png){width="100%" height="80%"}
+![](../images/issue-example.png){width="100%" height="80%"}
 
 [Link to Issue](https://github.com/lnnrtwttkhn/version-control-survey/issues/28)
 
