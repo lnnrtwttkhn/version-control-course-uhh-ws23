@@ -52,7 +52,7 @@ create_schedule()
 
 2.  Give each other the **rights to collaborate** on your recipe repositories
 
-3.  **Create an issue** on your partners repository (maybe their repo is missing a great recipe?)
+3.  **Create an issue** on your partner's repository (maybe their repo is missing a great recipe?)
 :::
 
 ::: {.fragment .fade-in}
