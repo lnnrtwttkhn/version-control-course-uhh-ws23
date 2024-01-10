@@ -53,7 +53,7 @@ With features such as unambiguous version control, a wide spectrum of data trans
 
 {{< video https://www.youtube.com/watch?v=IN0vowZ67vs >}}
 
-## Annoucement Email
+## Announcement Email
 
 Dear all,
 
