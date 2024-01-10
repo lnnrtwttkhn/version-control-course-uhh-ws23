@@ -43,52 +43,38 @@ create_schedule()
 
 [Link to Issue](https://github.com/lnnrtwttkhn/version-control-survey/issues/28)
 
-## Your turn (Part 1)
+## Your turn
+
+::: {.fragment .fade-in}
+### Part 1
 
 1.  **Find a partner** to work with today
 
 2.  Give each other the **rights to collaborate** on your recipe repositories
 
-3.  **Create an issue** on your partners repository (missing recipe?)
+3.  **Create an issue** on your partners repository (maybe their repo is missing a great recipe?)
+:::
 
-## Your turn (Part 2)
+::: {.fragment .fade-in}
+### Part 2
 
 4.  **Clone** your partners repository
 
 5.  **Create a new branch** and create **one or multiple commits** "fixing" the issue
 
 6.  **Push** your changes to GitHub
+:::
 
-## Your turn (Part 3)
+::: {.fragment .fade-in}
+### Part 3
 
-7.  **Create a Pull request** with your changes and refer to the issue
-
-8.  **Close the pull request** of your partner
-
-## Your turn (Overview)
-
-1.  **Find a partner** to work with today
-
-2.  Give each other the **rights to collaborate** on your recipe repositories
-
-3.  **Create an issue** on your partners repository (missing recipe?)
-
-4.  **Clone** your partners repository
-
-5.  **Create a new branch** and create **one or multiple commits** "fixing" the issue
-
-6.  **Push** your changes to GitHub
-
-7.  **Create a Pull request** with your changes and refer to the issue
+7.  **Create a pull request** with your changes and refer to the issue
 
 8.  **Close the pull request** of your partner
+:::
 
 ::: fragment
 Ask questions!
 
 Let's *git* started!
-:::
-
-::: fragment
-And *git* it up to GitHub! :rocket:
 :::
