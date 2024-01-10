@@ -78,3 +78,25 @@ Ask questions!
 
 Let's *git* started!
 :::
+
+## Bonus / Homework
+
+::: fragment
+1. Find out what [forking](https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html#forking-a-repository) is
+1. **Fork the recipes repository** of another course participant (who is not your partner from the previous exercise)
+1. Repeat the steps from the previous exercise using the forked repository:
+    1. **Clone** the *forked* repository
+    1. **Create a new branch** and create **one or multiple commits** "fixing" the issue
+    1. **Push** your changes to GitHub
+    1. **Create a pull request** with your changes (hint: from the fork to the original repo) and refer to the issue
+:::
+
+::: fragment
+#### Learning questions
+
+Some learning questions to pay attention to during the exercise:
+
+-   How does forking differ from the previous approach to collaboration?
+-   Did you notice any hurdles when comparing these different approaches to collaboration?
+-   In which scenarios are different approaches to collaboration applicable?
+:::
