@@ -109,8 +109,6 @@ If you have unnecessary files in your repository:
 [Konrad´s repository](https://github.com/konradpa/Recipes): https://github.com/konradpa/Recipes 
 :::
 
-
-
 ## Bonus/Optional Exercise
 
 1. Read the [Tags and Releases chapter](https://lennartwittkuhn.com/version-control-book/)
