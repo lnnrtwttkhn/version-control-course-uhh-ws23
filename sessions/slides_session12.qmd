@@ -16,7 +16,7 @@ metadata-files:
 ## How are you today?
 
 ::: fragment
-![](../images/mood-yoda.jpg){width="50%"}
+![](../images/moodscale_12.jpg){width="50%"}
 :::
 
 ## Schedule
