@@ -29,6 +29,16 @@ metadata-files:
 create_schedule()
 ```
 
+## Next week: DataLad Talk
+
+```{=html}
+<iframe width="100%" height="80%" src="https://lennartwittkuhn.com/version-control-course-uhh-ws23/sessions/session13.html" title="DataLad Talk"></iframe>
+```
+
+
+## Survey Participation
+
+
 ## Looking Back: GitHub: Collaboration
 
 ### Part 1
@@ -59,6 +69,8 @@ create_schedule()
 1. Creating **README.md** and **committing changes on GitHub**
 
 1. **Forking** workflow 
+
+1. Optional: **Tags and Releases**
 
 ## Your turn (Part 1)
 
