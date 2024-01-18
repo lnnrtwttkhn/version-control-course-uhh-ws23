@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "When? Winter 2023/24 (October to February), every Friday, 10:15 to 11:45 (detailed schedule below)\n Where? University of Hamburg, Von-Melle-Park 5, Room 4047\n\n\n\n\n\n\nThe course schedule is still under construction! \n\n\n\n\n\nWe are continuously updating information on this website. Watch this space for any updates. If you have any urgent questions, always feel free to write an email. Note, that this syllabus provides a comprehensive outline of the topics to be covered in the course. The actual pace and content covered may vary based on the instructor’s discretion and the needs of the students.\n\n\n\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nTags/Releases, Advanced Git: Rebasing, Submodules, CI/CD\n\nIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commitsWorking with Git submodulesIntegrating external repositories as submodulesExploring advanced Git features and optionsIntegrating continuous integration (CI) with GitREADME.mdLicensesContributionsIntroduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n Stashing and rebasing\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
+    "text": "When? Winter 2023/24 (October to February), every Friday, 10:15 to 11:45 (detailed schedule below)\n Where? University of Hamburg, Von-Melle-Park 5, Room 4047\n\n\n\n\n\n\nThe course schedule is still under construction! \n\n\n\n\n\nWe are continuously updating information on this website. Watch this space for any updates. If you have any urgent questions, always feel free to write an email. Note, that this syllabus provides a comprehensive outline of the topics to be covered in the course. The actual pace and content covered may vary based on the instructor’s discretion and the needs of the students.\n\n\n\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nGitHub: Advanced, Tags/Releases\n\nREADME.mdLicensesContributionsForkingPracticing GitHub workflow Introduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
   },
   {
     "objectID": "team.html#project-leader-instructor",
@@ -147,88 +147,137 @@
     "text": "References\n\n\nDeslauriers, L., McCarty, L. S., Miller, K., Callaghan, K., & Kestin, G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences, 116(39), 19251–19257. https://doi.org/10.1073/pnas.1821936116. License: CC BY-NC-ND.\n\n\nHeise, V., Holman, C., Lo, H., Lyras, E. M., Adkins, M. C., Aquino, M. R. J., Bougioukas, K. I., Bray, K. O., Gajos, M., Guo, X., Hartling, C., Huerta-Gutierrez, R., Jindrová, M., Kenney, J. P. M., Kępińska, A. P., Kneller, L., Lopez-Rodriguez, E., Mühlensiepen, F., Richards, A., … Weissgerber, T. L. (2023). Ten simple rules for implementing open and reproducible research practices after attending a training course. PLOS Computational Biology, 19(1), e1010750. https://doi.org/10.1371/journal.pcbi.1010750. License: CC BY 4.0.\n\n\nMillman, K. J., Brett, M., Barnowski, R., & Poline, J.-B. (2018). Teaching computational reproducibility for neuroimaging. Frontiers in Neuroscience, 12. https://doi.org/10.3389/fnins.2018.00727.\n\n\nWeissgerber, T. L. (2023). Bridging the gap: From education to implementation. https://doi.org/10.5281/ZENODO.7974345. License: CC BY 4.0.\n\n\nWilliams, L. (2001). Integrating pair programming into a software development process. Proceedings 14th Conference on Software Engineering Education and Training. ’In Search of a Software Engineering Profession’ (Cat. No.PR01059). https://doi.org/10.1109/csee.2001.913816. License: Unknown.\n\n\nWilson, R. C. (2021). NSCS 344 — modeling the mind. University of Arizona. https://u.arizona.edu/~bob/web_NSCS344/. License: Unknown."
   },
   {
-    "objectID": "sessions/session09.html",
-    "href": "sessions/session09.html",
-    "title": "GitHub",
+    "objectID": "sessions/session13.html",
+    "href": "sessions/session13.html",
+    "title": "Introduction to DataLad - Talk by Dr. Adina Wagner",
     "section": "",
-    "text": "Slides\n  \n  \n    \n     Chapter: GitHub\n  \n  \n    \n     Exercises"
+    "text": "Add to calendar!\n  \n  \n    \n     Slides: TBA\n  \n  \n    \n     DataLad\n  \n  \n    \n     DataLad Handbook\n  \n  \n    \n     What is DataLad?"
   },
   {
-    "objectID": "sessions/session09.html#slides",
-    "href": "sessions/session09.html#slides",
-    "title": "GitHub",
-    "section": "Slides",
-    "text": "Slides"
+    "objectID": "sessions/session13.html#overview",
+    "href": "sessions/session13.html#overview",
+    "title": "Introduction to DataLad - Talk by Dr. Adina Wagner",
+    "section": "Overview",
+    "text": "Overview\n\n Title: “DataLad - Decentralized Management of Digital Objects for Open Science” (see abstract)\n Speaker: Dr. Adina Wagner\n Date: Friday, 26th of January 2024\n Time: 10:15 to 11:45 am (90 minutes)\n Place: Hybrid (registration details below)\n\nIn person at Von-Melle-Park 5, 20146 Hamburg, William Stern Room (Room 4054)\nZoom (details will be send after registration)\n\n Language: English\n Context: Part of the course “Version Control of Code & Data”\n Thanks: Supported by the the Digital & Data Literacy in Teaching Lab\n Registration: To register, please send an email to the organizer Dr. Lennart Wittkuhn"
   },
   {
-    "objectID": "sessions/slides_session08.html#how-are-you-today",
-    "href": "sessions/slides_session08.html#how-are-you-today",
-    "title": "Session 8: Branches",
+    "objectID": "sessions/session13.html#abstract",
+    "href": "sessions/session13.html#abstract",
+    "title": "Introduction to DataLad - Talk by Dr. Adina Wagner",
+    "section": "Abstract",
+    "text": "Abstract\n\nDataLad - Decentralized Management of Digital Objects for Open Science\nWith a general awareness of a reproducibility crisis in many scientific areas and increasing importance of research data management in science and policy making, data-driven fields require convenient and scalable data management solutions. Standing on the shoulders of Git and git-annex (git-annex.branchable.com, Joey Hess), DataLad provides a decentralized solution that enables the joint management of code, data, and complete containerized computational environments in a scalable and distributed fashion. With features such as unambiguous version control, a wide spectrum of data transport mechanisms, convenient provenance capture, and re-execution for verification or as an alternative to storage and transport, it enables and facilitates many aspects of open and reproducible science: collaboration, sharing, analytical transparency, computational reproducibility of digital research objects, and disk-space aware storage and computing workflows on infrastructure that ranges from personal laptops up to supercomputers."
+  },
+  {
+    "objectID": "sessions/session13.html#what-is-datalad",
+    "href": "sessions/session13.html#what-is-datalad",
+    "title": "Introduction to DataLad - Talk by Dr. Adina Wagner",
+    "section": "What is DataLad?",
+    "text": "What is DataLad?"
+  },
+  {
+    "objectID": "sessions/session13.html#announcement-email",
+    "href": "sessions/session13.html#announcement-email",
+    "title": "Introduction to DataLad - Talk by Dr. Adina Wagner",
+    "section": "Announcement Email",
+    "text": "Announcement Email\nDear all,\nwe cordially invite you to a hybrid talk by Dr. Adina Wagner on “DataLad - Decentralized Management of Digital Objects for Open Science”.\n\nDate: Friday, 26th of January 2024\nTime: 10:15 to 11:45 am (90 minutes)\nPlace: Hybrid, in person at Von-Melle-Park 5, 20146 Hamburg, William Stern Room (Room 4054) and via Zoom\nRegistration: To register, please send an email to the organizer Dr. Lennart Wittkuhn. Please indicate whether you would like to join in-person or online.\nDetails: For more information, please visit the event website\n\nThe link to the Zoom meeting will be sent to all registered participants a few days before the event.\nThe talk is part of the course on “Version Control of Code & Data”, generously supported by the Digital & Data Literacy in Teaching Lab program at University of Hamburg.\nAbstract\nWith a general awareness of a reproducibility crisis in many scientific areas and increasing importance of research data management in science and policy making, data-driven fields require convenient and scalable data management solutions. Standing on the shoulders of Git and git-annex (git-annex.branchable.com, Joey Hess), DataLad provides a decentralized solution that enables the joint management of code, data, and complete containerized computational environments in a scalable and distributed fashion. With features such as unambiguous version control, a wide spectrum of data transport mechanisms, convenient provenance capture, and re-execution for verification or as an alternative to storage and transport, it enables and facilitates many aspects of open and reproducible science: collaboration, sharing, analytical transparency, computational reproducibility of digital research objects, and disk-space aware storage and computing workflows on infrastructure that ranges from personal laptops up to supercomputers."
+  },
+  {
+    "objectID": "sessions/slides_session11.html#how-are-you-today",
+    "href": "sessions/slides_session11.html#how-are-you-today",
+    "title": "Session 11: GitHub: Collaboration",
     "section": "How are you today?",
     "text": "How are you today?"
   },
   {
-    "objectID": "sessions/slides_session08.html#schedule",
-    "href": "sessions/slides_session08.html#schedule",
-    "title": "Session 8: Branches",
+    "objectID": "sessions/slides_session11.html#schedule",
+    "href": "sessions/slides_session11.html#schedule",
+    "title": "Session 11: GitHub: Collaboration",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nTags/Releases, Advanced Git: Rebasing, Submodules, CI/CD\n\nIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commitsWorking with Git submodulesIntegrating external repositories as submodulesExploring advanced Git features and optionsIntegrating continuous integration (CI) with GitREADME.mdLicensesContributionsIntroduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n Stashing and rebasing\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
+    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nGitHub: Advanced, Tags/Releases\n\nREADME.mdLicensesContributionsForkingPracticing GitHub workflow Introduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
   },
   {
-    "objectID": "sessions/slides_session08.html#looking-back-git-basics",
-    "href": "sessions/slides_session08.html#looking-back-git-basics",
-    "title": "Session 8: Branches",
-    "section": "Looking back: Git basics",
-    "text": "Looking back: Git basics\n\nSurvey results"
+    "objectID": "sessions/slides_session11.html#looking-back-introduction-to-github",
+    "href": "sessions/slides_session11.html#looking-back-introduction-to-github",
+    "title": "Session 11: GitHub: Collaboration",
+    "section": "Looking Back: Introduction to GitHub",
+    "text": "Looking Back: Introduction to GitHub"
   },
   {
-    "objectID": "sessions/slides_session08.html#todays-topic-branches",
-    "href": "sessions/slides_session08.html#todays-topic-branches",
-    "title": "Session 8: Branches",
-    "section": "Today’s topic: Branches",
-    "text": "Today’s topic: Branches"
+    "objectID": "sessions/slides_session11.html#today-collaboration-with-github",
+    "href": "sessions/slides_session11.html#today-collaboration-with-github",
+    "title": "Session 11: GitHub: Collaboration",
+    "section": "Today: Collaboration with GitHub",
+    "text": "Today: Collaboration with GitHub\nExample\n\nLink to Issue"
   },
   {
-    "objectID": "sessions/slides_session08.html#todays-chapter",
-    "href": "sessions/slides_session08.html#todays-chapter",
-    "title": "Session 8: Branches",
-    "section": "Today’s chapter",
-    "text": "Today’s chapter\n https://lennartwittkuhn.com/version-control-book/chapters/branches.html"
-  },
-  {
-    "objectID": "sessions/slides_session08.html#your-turn",
-    "href": "sessions/slides_session08.html#your-turn",
-    "title": "Session 8: Branches",
+    "objectID": "sessions/slides_session11.html#your-turn",
+    "href": "sessions/slides_session11.html#your-turn",
+    "title": "Session 11: GitHub: Collaboration",
     "section": "Your turn",
-    "text": "Your turn\n\n\n Content Review: Read the chapter “Branches” in the Version Control Book.\n Implementation: Try out the commands in the chapter! Play around! Have fun!\nNote: We will do the implementation exercises in class together, step-by-step.\n Exercises: Complete the exercises in the survey.\n\n\n\nAsk questions!\nLet’s git started!\n\n\nand branch out\n\n\n\nVersion control of code and data"
+    "text": "Your turn\n\n\nPart 1\n\nFind a partner to work with today\nGive each other the rights to collaborate on your recipe repositories\nCreate an issue on your partner’s repository (maybe their repo is missing a great recipe?)\n\n\n\n\nPart 2\n\nClone your partners repository\nCreate a new branch and create one or multiple commits “fixing” the issue\nPush your changes to GitHub\n\n\n\n\nPart 3\n\nCreate a pull request with your changes and refer to the issue\nClose the pull request of your partner\n\n\n\nAsk questions!\nLet’s git started!"
   },
   {
-    "objectID": "sessions/slides_session04.html#how-are-you-today",
-    "href": "sessions/slides_session04.html#how-are-you-today",
-    "title": "Session 4: Basic Git workflow",
-    "section": "How are you today?",
-    "text": "How are you today?\nYour mood on Harry Potter scale?"
+    "objectID": "sessions/slides_session11.html#bonus-homework",
+    "href": "sessions/slides_session11.html#bonus-homework",
+    "title": "Session 11: GitHub: Collaboration",
+    "section": "Bonus / Homework",
+    "text": "Bonus / Homework\n\n\nFind out what forking is\nFork the recipes repository of another course participant (who is not your partner from the previous exercise)\nRepeat the steps from the previous exercise using the forked repository:\n\nClone the forked repository\nCreate a new branch and create one or multiple commits “fixing” the issue\nPush your changes to GitHub\nCreate a pull request with your changes (hint: from the fork to the original repo) and refer to the issue\n\n\n\n\n\nLearning questions\nSome learning questions to pay attention to during the exercise:\n\nHow does forking differ from the previous approach to collaboration?\nDid you notice any hurdles when comparing these different approaches to collaboration?\nIn which scenarios are different approaches to collaboration applicable?\n\n\n\n\nVersion control of code and data"
   },
   {
-    "objectID": "sessions/slides_session04.html#schedule",
-    "href": "sessions/slides_session04.html#schedule",
-    "title": "Session 4: Basic Git workflow",
+    "objectID": "sessions/slides_session02.html#team",
+    "href": "sessions/slides_session02.html#team",
+    "title": "Session 2: Command Line",
+    "section": "Team",
+    "text": "Team\n\n\nInstructor\n\nDr. Lennart Wittkuhn\n lennart.wittkuhn@uni-hamburg.de  GitHub  lennartwittkuhn.com\n\nTeaching Assistant\n\nKonrad Pagenstedt\n konrad.pagenstedt@uni-hamburg.de  GitHub"
+  },
+  {
+    "objectID": "sessions/slides_session02.html#who-are-you-konrad",
+    "href": "sessions/slides_session02.html#who-are-you-konrad",
+    "title": "Session 2: Command Line",
+    "section": "Who are you, Konrad?",
+    "text": "Who are you, Konrad?\n\n\n\nYour name?\nYour preferred pronouns?\nWhich study program are you currently enrolled in?\nWhat did you study before and where?\nWhat do you expect from this course?\nA fun fact about you?\nYour mood on sheep scale?"
+  },
+  {
+    "objectID": "sessions/slides_session02.html#schedule",
+    "href": "sessions/slides_session02.html#schedule",
+    "title": "Session 2: Command Line",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nTags/Releases, Advanced Git: Rebasing, Submodules, CI/CD\n\nIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commitsWorking with Git submodulesIntegrating external repositories as submodulesExploring advanced Git features and optionsIntegrating continuous integration (CI) with GitREADME.mdLicensesContributionsIntroduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n Stashing and rebasing\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
+    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nGitHub: Advanced, Tags/Releases\n\nREADME.mdLicensesContributionsForkingPracticing GitHub workflow Introduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
   },
   {
-    "objectID": "sessions/slides_session04.html#todays-chapter",
-    "href": "sessions/slides_session04.html#todays-chapter",
-    "title": "Session 4: Basic Git workflow",
+    "objectID": "sessions/slides_session02.html#today-the-command-line",
+    "href": "sessions/slides_session02.html#today-the-command-line",
+    "title": "Session 2: Command Line",
+    "section": "Today: The command line",
+    "text": "Today: The command line\n\nSource: Wikimedia Commons (free license)"
+  },
+  {
+    "objectID": "sessions/slides_session02.html#todays-chapter",
+    "href": "sessions/slides_session02.html#todays-chapter",
+    "title": "Session 2: Command Line",
     "section": "Today’s chapter",
-    "text": "Today’s chapter\n lennartwittkuhn.com/version-control-book/chapters/first-steps-git.html"
+    "text": "Today’s chapter\n lennartwittkuhn.com/version-control-book/chapters/command-line.html"
   },
   {
-    "objectID": "sessions/slides_session04.html#your-turn",
-    "href": "sessions/slides_session04.html#your-turn",
-    "title": "Session 4: Basic Git workflow",
+    "objectID": "sessions/slides_session02.html#your-turn",
+    "href": "sessions/slides_session02.html#your-turn",
+    "title": "Session 2: Command Line",
     "section": "Your turn",
-    "text": "Your turn\n\n\n Content Review: Read the chapter “First steps with Git” in the Version Control Book. Start at “Logging commits”\n Implementation: Try out the commands in the chapter! Play around! Have fun!\nNote: We will do the implementation exercises in class together, step-by-step.\n Exercises: Complete the exercises in the survey.\n\n\n\nAsk questions!\nLet’s git started!\n\n\n\nVersion control of code and data"
+    "text": "Your turn\n\n Content Review: Read the chapter “Command Line” in the Version Control Book\n Windows users: Take a look at the chapter “Installation & Setup” on how to install Git for Windows\n Implementation: Try out the commands in the chapter! Play around! Have fun!\n Exercises: Complete the exercises in the survey\n\nAsk questions!\n\n\nVersion control of code and data"
+  },
+  {
+    "objectID": "sessions/session12.html",
+    "href": "sessions/session12.html",
+    "title": "Advanced GitHub",
+    "section": "",
+    "text": "Slides\n  \n  \n    \n     Chapter: GitHub\n  \n  \n    \n     Exercises"
+  },
+  {
+    "objectID": "sessions/session12.html#slides",
+    "href": "sessions/session12.html#slides",
+    "title": "Advanced GitHub",
+    "section": "Slides",
+    "text": "Slides"
   },
   {
     "objectID": "sessions/slides_session09.html#how-are-you-today",
@@ -242,7 +291,7 @@
     "href": "sessions/slides_session09.html#schedule",
     "title": "Session 9: GitHub",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nTags/Releases, Advanced Git: Rebasing, Submodules, CI/CD\n\nIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commitsWorking with Git submodulesIntegrating external repositories as submodulesExploring advanced Git features and optionsIntegrating continuous integration (CI) with GitREADME.mdLicensesContributionsIntroduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n Stashing and rebasing\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
+    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nGitHub: Advanced, Tags/Releases\n\nREADME.mdLicensesContributionsForkingPracticing GitHub workflow Introduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
   },
   {
     "objectID": "sessions/slides_session09.html#last-week-branches",
@@ -305,7 +354,7 @@
     "href": "sessions/slides_session01.html#schedule",
     "title": "Effective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nTags/Releases, Advanced Git: Rebasing, Submodules, CI/CD\n\nIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commitsWorking with Git submodulesIntegrating external repositories as submodulesExploring advanced Git features and optionsIntegrating continuous integration (CI) with GitREADME.mdLicensesContributionsIntroduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n Stashing and rebasing\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
+    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nGitHub: Advanced, Tags/Releases\n\nREADME.mdLicensesContributionsForkingPracticing GitHub workflow Introduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
   },
   {
     "objectID": "sessions/slides_session01.html#course-website",
@@ -403,7 +452,7 @@
     "href": "sessions/slides_session01.html#schedule-1",
     "title": "Effective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nTags/Releases, Advanced Git: Rebasing, Submodules, CI/CD\n\nIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commitsWorking with Git submodulesIntegrating external repositories as submodulesExploring advanced Git features and optionsIntegrating continuous integration (CI) with GitREADME.mdLicensesContributionsIntroduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n Stashing and rebasing\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up\n\n\n\n\n\n\n\n\n\nVersion control of code and data"
+    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nGitHub: Advanced, Tags/Releases\n\nREADME.mdLicensesContributionsForkingPracticing GitHub workflow Introduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up\n\n\n\n\n\n\n\n\n\nVersion control of code and data"
   },
   {
     "objectID": "sessions/slides_session01.html#footnotes",
@@ -466,7 +515,7 @@
     "href": "sessions/slides_session03.html#schedule",
     "title": "Session 3: First steps with Git",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nTags/Releases, Advanced Git: Rebasing, Submodules, CI/CD\n\nIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commitsWorking with Git submodulesIntegrating external repositories as submodulesExploring advanced Git features and optionsIntegrating continuous integration (CI) with GitREADME.mdLicensesContributionsIntroduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n Stashing and rebasing\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
+    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nGitHub: Advanced, Tags/Releases\n\nREADME.mdLicensesContributionsForkingPracticing GitHub workflow Introduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
   },
   {
     "objectID": "sessions/slides_session03.html#todays-chapter",
@@ -571,7 +620,7 @@
     "href": "sessions/index.html",
     "title": "Sessions",
     "section": "",
-    "text": "Introduction to DataLad - Talk by Dr. Adina Wagner\n\n\nSession 13\n\n\n\n\n\n\nJanuary 26, 2024\n\n\n\n\n\n\n\n\nGitHub: Collaboration\n\n\nSession 11\n\n\n\n\n\n\nJanuary 12, 2024\n\n\n\n\n\n\n\n\nGitHub\n\n\nSession 09\n\n\n\n\n\n\nDecember 15, 2023\n\n\n\n\n\n\n\n\nBranches\n\n\nSession 08\n\n\n\n\n\n\nDecember 8, 2023\n\n\n\n\n\n\n\n\nBasic Git workflow\n\n\nSession 04\n\n\n\n\n\n\nNovember 17, 2023\n\n\n\n\n\n\n\n\nFirst steps with Git\n\n\nSession 03\n\n\n\n\n\n\nNovember 3, 2023\n\n\n\n\n\n\n\n\nCommand Line\n\n\nSession 02\n\n\n\n\n\n\nOctober 27, 2023\n\n\n\n\n\n\n\n\nIntroduction to Version Control\n\n\nSession 01\n\n\n\n\n\n\nOctober 20, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Introduction to DataLad - Talk by Dr. Adina Wagner\n\n\nSession 13\n\n\n\n\n\n\nJanuary 26, 2024\n\n\n\n\n\n\n\n\nAdvanced GitHub\n\n\nSession 12\n\n\n\n\n\n\nJanuary 19, 2024\n\n\n\n\n\n\n\n\nGitHub: Collaboration\n\n\nSession 11\n\n\n\n\n\n\nJanuary 12, 2024\n\n\n\n\n\n\n\n\nGitHub\n\n\nSession 09\n\n\n\n\n\n\nDecember 15, 2023\n\n\n\n\n\n\n\n\nBranches\n\n\nSession 08\n\n\n\n\n\n\nDecember 8, 2023\n\n\n\n\n\n\n\n\nBasic Git workflow\n\n\nSession 04\n\n\n\n\n\n\nNovember 17, 2023\n\n\n\n\n\n\n\n\nFirst steps with Git\n\n\nSession 03\n\n\n\n\n\n\nNovember 3, 2023\n\n\n\n\n\n\n\n\nCommand Line\n\n\nSession 02\n\n\n\n\n\n\nOctober 27, 2023\n\n\n\n\n\n\n\n\nIntroduction to Version Control\n\n\nSession 01\n\n\n\n\n\n\nOctober 20, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "sessions/session08.html",
@@ -609,123 +658,151 @@
     "text": "Email\nDear course participants,\nYou are receiving this email because you are enrolled in the course “Version Control of Code & Data”, taking place this winter semester at the University of Hamburg. We are excited that you have signed up for this course and can’t wait to delve into the world of version control with you. Our first session takes place this Friday, October 20, 2023, from 10:15 to 11:45 a.m. at Von-Melle-Park 5, Room 4047.\nIn order to tailor the course to your prior experience and needs, we have prepared a short survey with a few questions. Please complete the survey before our first session, ideally by Thursday evening (October 19, 2023). This will give us enough time to review your responses before our first session on Friday.\nThe survey can be accessed here: https://version-control-intro.formr.org\nA few technical remarks about the survey: The survey will ask you for two codewords: a personal codeword and a course code.\nThe personal codeword is used to associate your responses with a unique identifier. This will allow us to relate your responses across surveys while ensuring anonymity. Note that you can also complete the survey without providing a personal codeword. By providing a personal codeword, you will allow us to draw more detailed insights from your responses that will help us improve the course for you. The survey will contain an explanation of how to generate your personal codeword.\nThe course codeword is used to tag your responses as coming from a course participant at the University of Hamburg. We might also use the survey to collect responses from participants in other course settings. The course codeword allows us to distinguish responses from different course settings.\nThe course codeword is: -------- (course password will be announced during the course)\nApart from answering the survey, you don’t need to prepare anything else for our first session on Friday.\nFurther information about the course can be found on our course website: https://lennartwittkuhn.com/version-control-course-uhh-ws23/\nIf you have any questions, feel free to contact us directly via email.\nWe are looking forward to seeing you for the first session on Friday!\nBest wishes, Lennart Wittkuhn (Instructor) & Konrad Pagenstedt (Teaching Assistant)"
   },
   {
-    "objectID": "sessions/slides_session02.html#team",
-    "href": "sessions/slides_session02.html#team",
-    "title": "Session 2: Command Line",
-    "section": "Team",
-    "text": "Team\n\n\nInstructor\n\nDr. Lennart Wittkuhn\n lennart.wittkuhn@uni-hamburg.de  GitHub  lennartwittkuhn.com\n\nTeaching Assistant\n\nKonrad Pagenstedt\n konrad.pagenstedt@uni-hamburg.de  GitHub"
+    "objectID": "sessions/slides_session04.html#how-are-you-today",
+    "href": "sessions/slides_session04.html#how-are-you-today",
+    "title": "Session 4: Basic Git workflow",
+    "section": "How are you today?",
+    "text": "How are you today?\nYour mood on Harry Potter scale?"
   },
   {
-    "objectID": "sessions/slides_session02.html#who-are-you-konrad",
-    "href": "sessions/slides_session02.html#who-are-you-konrad",
-    "title": "Session 2: Command Line",
-    "section": "Who are you, Konrad?",
-    "text": "Who are you, Konrad?\n\n\n\nYour name?\nYour preferred pronouns?\nWhich study program are you currently enrolled in?\nWhat did you study before and where?\nWhat do you expect from this course?\nA fun fact about you?\nYour mood on sheep scale?"
-  },
-  {
-    "objectID": "sessions/slides_session02.html#schedule",
-    "href": "sessions/slides_session02.html#schedule",
-    "title": "Session 2: Command Line",
+    "objectID": "sessions/slides_session04.html#schedule",
+    "href": "sessions/slides_session04.html#schedule",
+    "title": "Session 4: Basic Git workflow",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nTags/Releases, Advanced Git: Rebasing, Submodules, CI/CD\n\nIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commitsWorking with Git submodulesIntegrating external repositories as submodulesExploring advanced Git features and optionsIntegrating continuous integration (CI) with GitREADME.mdLicensesContributionsIntroduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n Stashing and rebasing\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
+    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nGitHub: Advanced, Tags/Releases\n\nREADME.mdLicensesContributionsForkingPracticing GitHub workflow Introduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
   },
   {
-    "objectID": "sessions/slides_session02.html#today-the-command-line",
-    "href": "sessions/slides_session02.html#today-the-command-line",
-    "title": "Session 2: Command Line",
-    "section": "Today: The command line",
-    "text": "Today: The command line\n\nSource: Wikimedia Commons (free license)"
-  },
-  {
-    "objectID": "sessions/slides_session02.html#todays-chapter",
-    "href": "sessions/slides_session02.html#todays-chapter",
-    "title": "Session 2: Command Line",
+    "objectID": "sessions/slides_session04.html#todays-chapter",
+    "href": "sessions/slides_session04.html#todays-chapter",
+    "title": "Session 4: Basic Git workflow",
     "section": "Today’s chapter",
-    "text": "Today’s chapter\n lennartwittkuhn.com/version-control-book/chapters/command-line.html"
+    "text": "Today’s chapter\n lennartwittkuhn.com/version-control-book/chapters/first-steps-git.html"
   },
   {
-    "objectID": "sessions/slides_session02.html#your-turn",
-    "href": "sessions/slides_session02.html#your-turn",
-    "title": "Session 2: Command Line",
+    "objectID": "sessions/slides_session04.html#your-turn",
+    "href": "sessions/slides_session04.html#your-turn",
+    "title": "Session 4: Basic Git workflow",
     "section": "Your turn",
-    "text": "Your turn\n\n Content Review: Read the chapter “Command Line” in the Version Control Book\n Windows users: Take a look at the chapter “Installation & Setup” on how to install Git for Windows\n Implementation: Try out the commands in the chapter! Play around! Have fun!\n Exercises: Complete the exercises in the survey\n\nAsk questions!\n\n\nVersion control of code and data"
+    "text": "Your turn\n\n\n Content Review: Read the chapter “First steps with Git” in the Version Control Book. Start at “Logging commits”\n Implementation: Try out the commands in the chapter! Play around! Have fun!\nNote: We will do the implementation exercises in class together, step-by-step.\n Exercises: Complete the exercises in the survey.\n\n\n\nAsk questions!\nLet’s git started!\n\n\n\nVersion control of code and data"
   },
   {
-    "objectID": "sessions/slides_session11.html#how-are-you-today",
-    "href": "sessions/slides_session11.html#how-are-you-today",
-    "title": "Session 11: GitHub: Collaboration",
+    "objectID": "sessions/slides_session08.html#how-are-you-today",
+    "href": "sessions/slides_session08.html#how-are-you-today",
+    "title": "Session 8: Branches",
     "section": "How are you today?",
     "text": "How are you today?"
   },
   {
-    "objectID": "sessions/slides_session11.html#schedule",
-    "href": "sessions/slides_session11.html#schedule",
-    "title": "Session 11: GitHub: Collaboration",
+    "objectID": "sessions/slides_session08.html#schedule",
+    "href": "sessions/slides_session08.html#schedule",
+    "title": "Session 8: Branches",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nTags/Releases, Advanced Git: Rebasing, Submodules, CI/CD\n\nIntroduction to rebasingInteractive rebasing: reordering, editing, and squashing commitsWorking with Git submodulesIntegrating external repositories as submodulesExploring advanced Git features and optionsIntegrating continuous integration (CI) with GitREADME.mdLicensesContributionsIntroduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n Stashing and rebasing\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
+    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nGitHub: Advanced, Tags/Releases\n\nREADME.mdLicensesContributionsForkingPracticing GitHub workflow Introduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
   },
   {
-    "objectID": "sessions/slides_session11.html#looking-back-introduction-to-github",
-    "href": "sessions/slides_session11.html#looking-back-introduction-to-github",
-    "title": "Session 11: GitHub: Collaboration",
-    "section": "Looking Back: Introduction to GitHub",
-    "text": "Looking Back: Introduction to GitHub"
+    "objectID": "sessions/slides_session08.html#looking-back-git-basics",
+    "href": "sessions/slides_session08.html#looking-back-git-basics",
+    "title": "Session 8: Branches",
+    "section": "Looking back: Git basics",
+    "text": "Looking back: Git basics\n\nSurvey results"
   },
   {
-    "objectID": "sessions/slides_session11.html#today-collaboration-with-github",
-    "href": "sessions/slides_session11.html#today-collaboration-with-github",
-    "title": "Session 11: GitHub: Collaboration",
-    "section": "Today: Collaboration with GitHub",
-    "text": "Today: Collaboration with GitHub\nExample\n\nLink to Issue"
+    "objectID": "sessions/slides_session08.html#todays-topic-branches",
+    "href": "sessions/slides_session08.html#todays-topic-branches",
+    "title": "Session 8: Branches",
+    "section": "Today’s topic: Branches",
+    "text": "Today’s topic: Branches"
   },
   {
-    "objectID": "sessions/slides_session11.html#your-turn",
-    "href": "sessions/slides_session11.html#your-turn",
-    "title": "Session 11: GitHub: Collaboration",
+    "objectID": "sessions/slides_session08.html#todays-chapter",
+    "href": "sessions/slides_session08.html#todays-chapter",
+    "title": "Session 8: Branches",
+    "section": "Today’s chapter",
+    "text": "Today’s chapter\n https://lennartwittkuhn.com/version-control-book/chapters/branches.html"
+  },
+  {
+    "objectID": "sessions/slides_session08.html#your-turn",
+    "href": "sessions/slides_session08.html#your-turn",
+    "title": "Session 8: Branches",
     "section": "Your turn",
-    "text": "Your turn\n\n\nPart 1\n\nFind a partner to work with today\nGive each other the rights to collaborate on your recipe repositories\nCreate an issue on your partner’s repository (maybe their repo is missing a great recipe?)\n\n\n\n\nPart 2\n\nClone your partners repository\nCreate a new branch and create one or multiple commits “fixing” the issue\nPush your changes to GitHub\n\n\n\n\nPart 3\n\nCreate a pull request with your changes and refer to the issue\nClose the pull request of your partner\n\n\n\nAsk questions!\nLet’s git started!"
+    "text": "Your turn\n\n\n Content Review: Read the chapter “Branches” in the Version Control Book.\n Implementation: Try out the commands in the chapter! Play around! Have fun!\nNote: We will do the implementation exercises in class together, step-by-step.\n Exercises: Complete the exercises in the survey.\n\n\n\nAsk questions!\nLet’s git started!\n\n\nand branch out\n\n\n\nVersion control of code and data"
   },
   {
-    "objectID": "sessions/slides_session11.html#bonus-homework",
-    "href": "sessions/slides_session11.html#bonus-homework",
-    "title": "Session 11: GitHub: Collaboration",
-    "section": "Bonus / Homework",
-    "text": "Bonus / Homework\n\n\nFind out what forking is\nFork the recipes repository of another course participant (who is not your partner from the previous exercise)\nRepeat the steps from the previous exercise using the forked repository:\n\nClone the forked repository\nCreate a new branch and create one or multiple commits “fixing” the issue\nPush your changes to GitHub\nCreate a pull request with your changes (hint: from the fork to the original repo) and refer to the issue\n\n\n\n\n\nLearning questions\nSome learning questions to pay attention to during the exercise:\n\nHow does forking differ from the previous approach to collaboration?\nDid you notice any hurdles when comparing these different approaches to collaboration?\nIn which scenarios are different approaches to collaboration applicable?\n\n\n\n\nVersion control of code and data"
-  },
-  {
-    "objectID": "sessions/session13.html",
-    "href": "sessions/session13.html",
-    "title": "Introduction to DataLad - Talk by Dr. Adina Wagner",
+    "objectID": "sessions/session09.html",
+    "href": "sessions/session09.html",
+    "title": "GitHub",
     "section": "",
-    "text": "Add to calendar!\n  \n  \n    \n     Slides: TBA\n  \n  \n    \n     DataLad\n  \n  \n    \n     DataLad Handbook\n  \n  \n    \n     What is DataLad?"
+    "text": "Slides\n  \n  \n    \n     Chapter: GitHub\n  \n  \n    \n     Exercises"
   },
   {
-    "objectID": "sessions/session13.html#overview",
-    "href": "sessions/session13.html#overview",
-    "title": "Introduction to DataLad - Talk by Dr. Adina Wagner",
-    "section": "Overview",
-    "text": "Overview\n\n Title: “DataLad - Decentralized Management of Digital Objects for Open Science” (see abstract)\n Speaker: Dr. Adina Wagner\n Date: Friday, 26th of January 2024\n Time: 10:15 to 11:45 am (90 minutes)\n Place: Hybrid (registration details below)\n\nIn person at Von-Melle-Park 5, 20146 Hamburg, William Stern Room (Room 4054)\nZoom (details will be send after registration)\n\n Language: English\n Context: Part of the course “Version Control of Code & Data”\n Thanks: Supported by the the Digital & Data Literacy in Teaching Lab\n Registration: To register, please send an email to the organizer Dr. Lennart Wittkuhn"
+    "objectID": "sessions/session09.html#slides",
+    "href": "sessions/session09.html#slides",
+    "title": "GitHub",
+    "section": "Slides",
+    "text": "Slides"
   },
   {
-    "objectID": "sessions/session13.html#abstract",
-    "href": "sessions/session13.html#abstract",
-    "title": "Introduction to DataLad - Talk by Dr. Adina Wagner",
-    "section": "Abstract",
-    "text": "Abstract\n\nDataLad - Decentralized Management of Digital Objects for Open Science\nWith a general awareness of a reproducibility crisis in many scientific areas and increasing importance of research data management in science and policy making, data-driven fields require convenient and scalable data management solutions. Standing on the shoulders of Git and git-annex (git-annex.branchable.com, Joey Hess), DataLad provides a decentralized solution that enables the joint management of code, data, and complete containerized computational environments in a scalable and distributed fashion. With features such as unambiguous version control, a wide spectrum of data transport mechanisms, convenient provenance capture, and re-execution for verification or as an alternative to storage and transport, it enables and facilitates many aspects of open and reproducible science: collaboration, sharing, analytical transparency, computational reproducibility of digital research objects, and disk-space aware storage and computing workflows on infrastructure that ranges from personal laptops up to supercomputers."
+    "objectID": "sessions/slides_session12.html#how-are-you-today",
+    "href": "sessions/slides_session12.html#how-are-you-today",
+    "title": "Session 12: Advanced GitHub",
+    "section": "How are you today?",
+    "text": "How are you today?"
   },
   {
-    "objectID": "sessions/session13.html#what-is-datalad",
-    "href": "sessions/session13.html#what-is-datalad",
-    "title": "Introduction to DataLad - Talk by Dr. Adina Wagner",
-    "section": "What is DataLad?",
-    "text": "What is DataLad?"
+    "objectID": "sessions/slides_session12.html#schedule",
+    "href": "sessions/slides_session12.html#schedule",
+    "title": "Session 12: Advanced GitHub",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\nNo\nDate\nTitle\nNotes\nContents\nReading\nSurvey\n\n\n\n\n1\n2023-10-20\nIntroduction to version control\n\nOrganisational mattersOverview of seminar sessionsComputational reproducibilityIntroduction to version controlIntroduction to Git and its advantages\n Intro to version control\nCourse introduction survey\n\n\n2\n2023-10-27\nCommand line\n\nFile SystemsBenefits of the Command LineBasic Command Line commands\n Command Line\nCommand Line survey\n\n\n3\n2023-11-03\nGit Basics\n\nInstallation and configuration of GitInitializing a Git repositoryBasic Git commandsIgnoring files with .gitignoreGood commit messages\n Installation, setup, first steps with Git\nInstallation survey, Git Basics survey\n\n\n4\n2023-11-10\nCancelled\n\nCancelled\n\n\n\n\n5\n2023-11-17\nBasic Git workflow\n\nPracticing basic Git commandsIgnoring files with .gitignoreGood commit messages\n First steps with Git\nGit Basics survey\n\n\n6\n2023-11-24\nCancelled\n\nCancelled\n\n\n\n\n7\n2023-12-01\nQuarto workshop\n\nIntroduction to QuartoUsecases as a scientistMarkdown SyntaxUsing code chunks\n Workshop Slides\n\n\n\n8\n2023-12-08\nGit Branching and Merging\n\nUnderstanding branches in GitCreating and switching between branchesMerging branches: fast-forward and recursiveResolving merge conflictsStashing and retrieving changesUndoing changesRemoving files\n Branches\nGit branches survey\n\n\n9\n2023-12-15\nIntroduction to GitHub\n\nIntroduction to remote repositoriesCreating a GitHub accountCreating and managing repositories on GitHubCloning/Forking a remote repositoryPushing and pulling changesBranching and merging in a collaborative environmentGraphical User Interfaces (GUIs), e.g., GitKraken\n GitHub Intro\nGitHub Survey\n\n\n10\n2023-12-22\nRepetition and practice\n\nInitializing repositoryStaging and committingCreating and merging branches\n\n\n\n\n11\n2024-01-12\nGitHub: Collaboration\n\nOrganizing Git repositories and projectsCollaborating with team members using issues and pull requestsUsing pull requestsUnderstanding different Git workflowsIntroduction to Gitflow workflowWorking with feature branches in Gitflow\n\n\n\n\n12\n2024-01-19\nGitHub: Advanced, Tags/Releases\n\nREADME.mdLicensesContributionsForkingPracticing GitHub workflow Introduction to tags and their importanceBest practices for tagging in GitIntegration with Zenodo\n\n\n\n\n13\n2024-01-26\nIntroduction to DataLad - Version control of (large) datasets\n\nGuest Lecture by Adina Wagner (DataLad Developer & Project Lead of the DataLad Handbook)\n\n\n\n\n14\n2024-02-02\nSummary & Wrap-Up\n\nSummary & Wrap-Up"
   },
   {
-    "objectID": "sessions/session13.html#announcement-email",
-    "href": "sessions/session13.html#announcement-email",
-    "title": "Introduction to DataLad - Talk by Dr. Adina Wagner",
-    "section": "Announcement Email",
-    "text": "Announcement Email\nDear all,\nwe cordially invite you to a hybrid talk by Dr. Adina Wagner on “DataLad - Decentralized Management of Digital Objects for Open Science”.\n\nDate: Friday, 26th of January 2024\nTime: 10:15 to 11:45 am (90 minutes)\nPlace: Hybrid, in person at Von-Melle-Park 5, 20146 Hamburg, William Stern Room (Room 4054) and via Zoom\nRegistration: To register, please send an email to the organizer Dr. Lennart Wittkuhn. Please indicate whether you would like to join in-person or online.\nDetails: For more information, please visit the event website\n\nThe link to the Zoom meeting will be sent to all registered participants a few days before the event.\nThe talk is part of the course on “Version Control of Code & Data”, generously supported by the Digital & Data Literacy in Teaching Lab program at University of Hamburg.\nAbstract\nWith a general awareness of a reproducibility crisis in many scientific areas and increasing importance of research data management in science and policy making, data-driven fields require convenient and scalable data management solutions. Standing on the shoulders of Git and git-annex (git-annex.branchable.com, Joey Hess), DataLad provides a decentralized solution that enables the joint management of code, data, and complete containerized computational environments in a scalable and distributed fashion. With features such as unambiguous version control, a wide spectrum of data transport mechanisms, convenient provenance capture, and re-execution for verification or as an alternative to storage and transport, it enables and facilitates many aspects of open and reproducible science: collaboration, sharing, analytical transparency, computational reproducibility of digital research objects, and disk-space aware storage and computing workflows on infrastructure that ranges from personal laptops up to supercomputers."
+    "objectID": "sessions/slides_session12.html#next-week-datalad-talk",
+    "href": "sessions/slides_session12.html#next-week-datalad-talk",
+    "title": "Session 12: Advanced GitHub",
+    "section": "Next week: DataLad Talk",
+    "text": "Next week: DataLad Talk"
+  },
+  {
+    "objectID": "sessions/slides_session12.html#survey-participation",
+    "href": "sessions/slides_session12.html#survey-participation",
+    "title": "Session 12: Advanced GitHub",
+    "section": "Survey Participation",
+    "text": "Survey Participation\n\nPlease complete the surveys!"
+  },
+  {
+    "objectID": "sessions/slides_session12.html#looking-back-github-for-collaboration",
+    "href": "sessions/slides_session12.html#looking-back-github-for-collaboration",
+    "title": "Session 12: Advanced GitHub",
+    "section": "Looking Back: GitHub for collaboration",
+    "text": "Looking Back: GitHub for collaboration\nPart 1\n\nFind a partner to work with today\nGive each other the rights to collaborate on your recipe repositories\nCreate an issue on your partner’s repository (maybe their repo is missing a great recipe?)\n\nPart 2\n\nClone your partners repository\nCreate a new branch and create one or multiple commits “fixing” the issue\nPush your changes to GitHub\n\nPart 3\n\nCreate a pull request with your changes and refer to the issue\nClose the pull request of your partner"
+  },
+  {
+    "objectID": "sessions/slides_session12.html#today-more-github",
+    "href": "sessions/slides_session12.html#today-more-github",
+    "title": "Session 12: Advanced GitHub",
+    "section": "Today: More GitHub!",
+    "text": "Today: More GitHub!\n\nCreating a README.md and committing changes on GitHub\nForking workflow\nOptional: Tags and Releases"
+  },
+  {
+    "objectID": "sessions/slides_session12.html#your-turn-part-1",
+    "href": "sessions/slides_session12.html#your-turn-part-1",
+    "title": "Session 12: Advanced GitHub",
+    "section": "Your turn (Part 1)",
+    "text": "Your turn (Part 1)\n\n\nCreate a README.md\n\nGo to your repositories main page and click on add a README\nUse Markdown syntax and add the most important facts about the repository (link to our seminar website)\nClick on Commit changes and write a relevant commit message\n\n\n\n\nClean up your repository (optional)\nIf you have unnecessary files in your repository:\n\nClick on the file you want to delete and choose Delete file\nCommit the change and choose a commit message\nPull the changes to your local repository"
+  },
+  {
+    "objectID": "sessions/slides_session12.html#your-turn-part-2",
+    "href": "sessions/slides_session12.html#your-turn-part-2",
+    "title": "Session 12: Advanced GitHub",
+    "section": "Your turn (Part 2)",
+    "text": "Your turn (Part 2)\n\n\nFind out what forking is\nFork the recipes repository of another course participant (including Lennart or Konrad)\nRepeat the steps from the previous exercise using the forked repository:\n\nClone the forked repository\nCreate a new branch and create one or multiple commits “fixing” the issue\nPush your changes to GitHub\nCreate a pull request with your changes (hint: from the fork to the original repo) and refer to the issue\n\n\n\n\n\nLennart’s recipes repository: https://github.com/lnnrtwttkhn/recipes\nKonrad’s recipes repository: https://github.com/konradpa/Recipes\nYour repositories?"
+  },
+  {
+    "objectID": "sessions/slides_session12.html#bonus-exercise",
+    "href": "sessions/slides_session12.html#bonus-exercise",
+    "title": "Session 12: Advanced GitHub",
+    "section": "Bonus exercise",
+    "text": "Bonus exercise\n\nRead the Tags and Releases chapter\nCreate a tag marking your recipe repository version\nCreate a release of your “finished” repository on GitHub\n\n\n\nVersion control of code and data"
   },
   {
     "objectID": "code-of-conduct.html",
