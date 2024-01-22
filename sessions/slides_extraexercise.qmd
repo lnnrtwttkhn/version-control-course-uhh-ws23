@@ -1,0 +1,72 @@
+---
+title: "Extra Exercise: Advanced GitHub"
+subtitle: |
+  {{< var title >}}
+  
+  [{{< fa brands internet-explorer >}} Slides]({{< var website >}}) |
+  [{{< fa brands github >}} Source]({{< var source >}})
+  
+  {{< var slides.license-badge >}}
+format: revealjs
+metadata-files:
+  - _slides.yml
+---
+
+## Agenda
+
+1. Creating a **README.md** and **committing changes on GitHub**
+
+1. **Forking** workflow 
+
+1. Optional: **Tags and Releases**
+
+## Your turn (Part 1)
+
+::: {.fragment .fade-in}
+
+### Create a `README.md`
+
+1. Go to your repositories main page and click on **add a README**
+
+1. Use **Markdown syntax** and add the **most important facts** about the repository (link to our seminar website)
+
+1. Click on **Commit changes** and write a relevant **commit message**
+
+:::
+
+::: {.fragment .fade-in}
+
+### Clean up your repository (optional) 
+
+If you have unnecessary files in your repository:
+
+1. Click on the file you want to delete and choose **Delete file**
+
+1. **Commit** the change and choose a **commit message**
+
+1. **Pull** the changes to your local repository
+
+:::
+
+## Your turn (Part 2)
+
+::: {.fragment .fade-in}
+
+1. Find out what [forking](https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html#forking-a-repository) is
+1. **Fork the recipes repository** of another course participant (including Lennart or Konrad)
+1. Repeat the steps from the previous exercise using the forked repository:
+    1. **Clone** the *forked* repository
+    1. **Create a new branch** and create **one or multiple commits** "fixing" the issue
+    1. **Push** your changes to GitHub
+    1. **Create a pull request** with your changes (hint: from the fork to the original repo) and refer to the issue
+::: 
+
+::: {.fragment .fade-in}
+- Lennart's `recipes` repository: <https://github.com/lnnrtwttkhn/recipes>
+:::
+
+## Bonus exercise
+
+1. Read the [Tags and Releases chapter](https://lennartwittkuhn.com/version-control-book/chapters/tags-and-releases.html)
+1. **Create a tag** marking your recipe repository version
+1. **Create a release** of your "finished" repository on GitHub

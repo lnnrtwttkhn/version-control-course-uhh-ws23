@@ -1,0 +1,72 @@
+---
+title: "Extra Exercise: Advanced GitHub"
+subtitle: ""
+about:
+  id: hero-heading
+  template: solana
+  image-width: 0em
+  links:
+    - icon: display
+      text: Slides
+      href: slides_extraexercise.qmd
+      aria-label: display
+    - icon: book
+      text: "Chapter: GitHub"
+      href: https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html
+      aria-label: book
+    - icon: input-cursor-text
+      text: Exercises
+      href: https://version-control-github.formr.org
+      aria-label: input-cursor-text
+---
+
+::: {#hero-heading}
+:::
+
+**Extra exercise for missed sessions:**
+
+Down below are the extra exercises you are required to do if you missed more than two of our sessions on fridays.
+
+To help with the exercises you can check out the [Github chapter](https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html).
+
+### 1. **Create a Readme**
+
+- Go to your repositories main page and click on **add a README**
+
+- Use **Markdown syntax** and add the **most important facts** about the repository (link to our seminar website)
+
+- Click on **Commit changes** and write a relevant **commit message**
+
+### 2. **Clean up your repository** *(optional)* 
+
+If you have unnecessary files in your repository:
+
+-  Click on the file you want to delete and choose **Delete file**
+
+- **Commit** the change and choose a **commit message**
+
+- **Pull** the changes to your local repository
+
+### 3. **Forking** 
+
+-  Find out what [forking](https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html#forking-a-repository) is
+- **Fork the recipes repository** of Lennart
+- Repeat the steps from the previous exercise using the forked repository:
+    1. **Clone** the *forked* repository
+    1. **Create a new branch** and create **one or multiple commits** "fixing" the issue
+    1. **Push** your changes to GitHub
+    1. **Create a pull request** with your changes (hint: from the fork to the original repo) and refer to the issue
+
+- Lennart's `recipes` repository: <https://github.com/lnnrtwttkhn/recipes>
+
+### 4. **Tags and Releases** *(Bonus)*
+
+- Read the [Tags and Releases chapter](https://lennartwittkuhn.com/version-control-book/chapters/tags-and-releases.html)
+- **Create a tag** marking your recipe repository version
+- **Create a release** of your "finished" repository on GitHub
+
+## Slides
+
+```{=html}
+<iframe width="100%" height=500 src="slides_extraexercise.html"></iframe>
+```
