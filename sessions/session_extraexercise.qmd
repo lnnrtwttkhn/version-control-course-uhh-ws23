@@ -58,6 +58,8 @@ If you have unnecessary files in your repository:
     1. **Create a pull request** with your changes (hint: from the fork to the original repo) and refer to the issue
 
 - Lennart's `recipes` repository: <https://github.com/lnnrtwttkhn/recipes>
+- The issue youre fixing could e.g. be adding a "missing recipe"
+- You complete the assignment by sending a pull request to Lennarts “recipes” repository from a fork.
 
 ### 4. **Tags and Releases** *(Bonus)*
 
