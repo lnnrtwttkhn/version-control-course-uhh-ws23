@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Version Control of Code and Data - Sessions</title>
+<title>Version Control of Code and Data - Extra Assignment: Advanced GitHub</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,12 +30,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../images/git-icon.svg" rel="icon" type="image/svg+xml">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -63,52 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-sessions .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-sessions'] = new List('listing-sessions', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js"></script>
-  <script>document.addEventListener("DOMContentLoaded", function () {
- var mathElements = document.getElementsByClassName("math");
- var macros = [];
- for (var i = 0; i < mathElements.length; i++) {
-  var texText = mathElements[i].firstChild;
-  if (mathElements[i].tagName == "SPAN") {
-   katex.render(texText.data, mathElements[i], {
-    displayMode: mathElements[i].classList.contains('display'),
-    throwOnError: false,
-    macros: macros,
-    fleqn: false
-   });
-}}});
-  </script>
-  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css">
 
 </head>
 
@@ -137,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text"><i class="fa-solid fa-clipboard-list" aria-label="clipboard-list"></i> Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../sessions/index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../sessions/index.html" rel="" target="">
  <span class="menu-text"><i class="fa-solid fa-list-ol" aria-label="list-ol"></i> Sessions</span></a>
   </li>  
   <li class="nav-item">
@@ -183,223 +135,112 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background"><span class="header-section-number">1</span> Background</a></li>
+  <li><a href="#assignment" id="toc-assignment" class="nav-link" data-scroll-target="#assignment"><span class="header-section-number">2</span> Assignment</a>
+  <ul>
+  <li><a href="#editing-content-on-github" id="toc-editing-content-on-github" class="nav-link" data-scroll-target="#editing-content-on-github"><span class="header-section-number">2.1</span> Editing content on GitHub</a>
+  <ul class="collapse">
+  <li><a href="#create-a-readme.md-file" id="toc-create-a-readme.md-file" class="nav-link" data-scroll-target="#create-a-readme.md-file"><span class="header-section-number">2.1.1</span> Create a <code>README.md</code> file</a></li>
+  <li><a href="#clean-up-your-recipes-repository" id="toc-clean-up-your-recipes-repository" class="nav-link" data-scroll-target="#clean-up-your-recipes-repository"><span class="header-section-number">2.1.2</span> Clean up your <code>recipes</code> repository</a></li>
+  </ul></li>
+  <li><a href="#forking" id="toc-forking" class="nav-link" data-scroll-target="#forking"><span class="header-section-number">2.2</span> Forking</a></li>
+  </ul></li>
+  <li><a href="#bonus-tags-and-releases" id="toc-bonus-tags-and-releases" class="nav-link" data-scroll-target="#bonus-tags-and-releases"><span class="header-section-number">3</span> Bonus: Tags and Releases</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content page-columns page-full column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+
+
+<div class="quarto-about-solana column-page-left">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Sessions</h1>
+<h1 class="title">Extra Assignment: Advanced GitHub</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
+</header> <div class="about-links">
+  <a href="https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html" class="about-link" rel="" target="">
+    <i class="bi bi-book"></i>
+     <span class="about-link-text">Chapter: GitHub</span>
+  </a>
+  <a href="https://version-control-github.formr.org" class="about-link" rel="" target="">
+    <i class="bi bi-input-cursor-text"></i>
+     <span class="about-link-text">Survey: GitHub</span>
+  </a>
+</div>
+      <div class="about-contents"><div id="hero-heading">
+</div></div>
+    </div>
+  </div>
+</div>
 
-</header>
-
-<div id="listing-sessions" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1706027801552" data-listing-reading-time-sort="3" data-listing-title-sort="Extra Assignment: Advanced GitHub">
-<div class="body">
-<a href="../sessions/session_extraexercise.html">
-<h3 class="no-anchor listing-title">
-Extra Assignment: Advanced GitHub
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session_extraexercise.html"> </a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1706227200000" data-listing-file-modified-sort="1706027801552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Introduction to DataLad - Talk by Dr. Adina Wagner">
-<div class="body">
-<a href="../sessions/session13.html">
-<h3 class="no-anchor listing-title">
-Introduction to DataLad - Talk by Dr.&nbsp;Adina Wagner
-</h3>
-<div class="listing-subtitle">
-Session 13
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session13.html">
-<div class="listing-date">
-January 26, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1705622400000" data-listing-file-modified-sort="1706027801552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Advanced GitHub">
-<div class="body">
-<a href="../sessions/session12.html">
-<h3 class="no-anchor listing-title">
-Advanced GitHub
-</h3>
-<div class="listing-subtitle">
-Session 12
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session12.html">
-<div class="listing-date">
-January 19, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1705017600000" data-listing-file-modified-sort="1706027801552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="GitHub: Collaboration">
-<div class="body">
-<a href="../sessions/session11.html">
-<h3 class="no-anchor listing-title">
-GitHub: Collaboration
-</h3>
-<div class="listing-subtitle">
-Session 11
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session11.html">
-<div class="listing-date">
-January 12, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1702598400000" data-listing-file-modified-sort="1706027801552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="GitHub">
-<div class="body">
-<a href="../sessions/session09.html">
-<h3 class="no-anchor listing-title">
-GitHub
-</h3>
-<div class="listing-subtitle">
-Session 09
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session09.html">
-<div class="listing-date">
-December 15, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1701993600000" data-listing-file-modified-sort="1706027801552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Branches">
-<div class="body">
-<a href="../sessions/session08.html">
-<h3 class="no-anchor listing-title">
-Branches
-</h3>
-<div class="listing-subtitle">
-Session 08
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session08.html">
-<div class="listing-date">
-December 8, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1700179200000" data-listing-file-modified-sort="1706027801552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Basic Git workflow">
-<div class="body">
-<a href="../sessions/session04.html">
-<h3 class="no-anchor listing-title">
-Basic Git workflow
-</h3>
-<div class="listing-subtitle">
-Session 04
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session04.html">
-<div class="listing-date">
-November 17, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1698969600000" data-listing-file-modified-sort="1706027801552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="First steps with Git">
-<div class="body">
-<a href="../sessions/session03.html">
-<h3 class="no-anchor listing-title">
-First steps with Git
-</h3>
-<div class="listing-subtitle">
-Session 03
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session03.html">
-<div class="listing-date">
-November 3, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1698364800000" data-listing-file-modified-sort="1706027801552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Command Line">
-<div class="body">
-<a href="../sessions/session02.html">
-<h3 class="no-anchor listing-title">
-Command Line
-</h3>
-<div class="listing-subtitle">
-Session 02
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session02.html">
-<div class="listing-date">
-October 27, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1697760000000" data-listing-file-modified-sort="1706027801552" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Introduction to Version Control">
-<div class="body">
-<a href="../sessions/session01.html">
-<h3 class="no-anchor listing-title">
-Introduction to Version Control
-</h3>
-<div class="listing-subtitle">
-Session 01
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../sessions/session01.html">
-<div class="listing-date">
-October 20, 2023
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+<section id="background" class="level2" data-number="1">
+<h2 data-number="1" data-anchor-id="background"><span class="header-section-number">1</span> Background</h2>
+<p>If you missed more than two course sessions, you are asked to complete an <strong>additional assignment</strong>. This additional assignment <strong>builds on the contents of previous course sessions</strong> and is (roughly) the equivalent of what you would complete in a regular course session. If you need help, please consult the relevant chapters in the <a href="https://lennartwittkuhn.com/version-control-book/">Version Control Book</a> (in particular the chapter on <a href="https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html">GitHub</a>). While the assignment covers many aspects of our course, it’s not an exam. So please <a href="mailto:lennart.wittkuhn@uni-hamburg.de">get in touch</a> if you are getting stuck or have any questions about the assignment or the course contents.</p>
+<p><strong>Submission Deadline:</strong> Friday, Feb 2nd, 2024</p>
+</section>
+<section id="assignment" class="level2" data-number="2">
+<h2 data-number="2" data-anchor-id="assignment"><span class="header-section-number">2</span> Assignment</h2>
+<section id="editing-content-on-github" class="level3" data-number="2.1">
+<h3 data-number="2.1" data-anchor-id="editing-content-on-github"><span class="header-section-number">2.1</span> Editing content on GitHub</h3>
+<section id="create-a-readme.md-file" class="level4" data-number="2.1.1">
+<h4 data-number="2.1.1" data-anchor-id="create-a-readme.md-file"><span class="header-section-number">2.1.1</span> Create a <code>README.md</code> file</h4>
+<p>If you did not create a <code>README.md</code> file in your <code>recipes</code> repository already:</p>
+<ol type="1">
+<li>Go to your <code>recipes</code> repository’s main page and click on “Add a README”.</li>
+<li>Use Markdown syntax and add the most important facts about the repository.</li>
+<li>Click on “Commit changes” and write a relevant commit message.</li>
+</ol>
+</section>
+<section id="clean-up-your-recipes-repository" class="level4" data-number="2.1.2">
+<h4 data-number="2.1.2" data-anchor-id="clean-up-your-recipes-repository"><span class="header-section-number">2.1.2</span> Clean up your <code>recipes</code> repository</h4>
+<p>If you have unnecessary files in your <code>recipes</code> repository:</p>
+<ol type="1">
+<li>Click on the file you want to delete and choose “Delete file”.</li>
+<li>Commit the change and choose a commit message.</li>
+<li>Pull the changes to your local repository (i.e., to your computer).</li>
+</ol>
+<p>You complete this assignment by sending a link to your <code>recipes</code> repository <a href="mailto:lennart.wittkuhn@uni-hamburg.de">to Lennart</a>.</p>
+</section>
+</section>
+<section id="forking" class="level3" data-number="2.2">
+<h3 data-number="2.2" data-anchor-id="forking"><span class="header-section-number">2.2</span> Forking</h3>
+<ol type="1">
+<li>Find out what <a href="https://lennartwittkuhn.com/version-control-book/chapters/github-intro.html#forking-a-repository">forking</a> is.</li>
+<li>Fork <a href="https://github.com/lnnrtwttkhn/recipes/">Lennart’s recipes repository</a>.</li>
+<li>Create an issue in Lennart’s repository (maybe the repo is missing a great recipe?).</li>
+<li>Clone the <em>forked</em> repository to your computer.</li>
+<li>Create a new branch and make one or multiple commits, “fixing” the issue.</li>
+<li>Push your changes to GitHub.</li>
+<li>Create a pull request with your changes (hint: from the forked to the original repository) and refer to the issue.</li>
+</ol>
+<p>You complete this assignment by sending a pull request to Lennart’s <code>recipes</code> repository from a fork.</p>
+<p>Hint: Check out <a href="https://github.com/lnnrtwttkhn/recipes/pull/2">Matteo’s contribution</a> to Lennart’s <code>recipes</code> repository for a similar procedure.</p>
+</section>
+</section>
+<section id="bonus-tags-and-releases" class="level2" data-number="3">
+<h2 data-number="3" data-anchor-id="bonus-tags-and-releases"><span class="header-section-number">3</span> Bonus: Tags and Releases</h2>
+<p>This is a bonus assignment. It’s not required to make up for more that two missed course sessions. But maybe you are on a roll now, so why not?</p>
+<ol type="1">
+<li>Read the <a href="https://lennartwittkuhn.com/version-control-book/chapters/tags-and-releases.html">Tags and Releases chapter</a>.</li>
+<li><strong>Create a tag</strong>, marking the current version of your <code>recipes</code> repository.</li>
+<li><strong>Create a release</strong> of your tagged repository version on GitHub.</li>
+<li>Try out the <a href="https://sandbox.zenodo.org/">Zenodo Sandbox</a> to generate a DOI for your repository.</li>
+</ol>
 
 
 
+</section>
 
 </main> <!-- /main -->
 <script defer="" data-domain="lennartwittkuhn.com/version-control-course-uhh-ws23" src="https://plausible.io/js/script.js"></script>
@@ -423,13 +264,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
