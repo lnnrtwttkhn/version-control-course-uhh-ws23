@@ -29,30 +29,31 @@ metadata-files:
 create_schedule()
 ```
 
-
 ## Survey Participation
 
-::: {.fragment}
-Please complete the surveys!
+::: fragment
+-   Please complete the surveys!
 :::
 
 ## Last week: DataLad Talk
 
-- **Question/Comments?**
+-   **Question/Comments?**
 
 ```{=html}
 <iframe width="100%" height="80%" src="https://lennartwittkuhn.com/version-control-course-uhh-ws23/sessions/session13.html" title="DataLad Talk"></iframe>
 ```
-
 ## Seminar evaluation
 
-- **Thank you** for completing the evaluation
+-   **Thank you** for completing the evaluation
 
-- Any **more suggested improvements?**
-
+::: fragment
+-   Any **more suggested improvements?**
+:::
 
 ## Open Questions about Git or GitHub?
 
+## Logo Reveal
+
+![](../images/uhh_git_logo.jpg){width="1029"}
 
 ## Kahoot {{< fa gamepad >}}
-
