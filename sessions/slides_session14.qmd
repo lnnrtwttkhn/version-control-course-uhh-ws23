@@ -54,6 +54,9 @@ create_schedule()
 
 ## Logo Reveal
 
-![](../images/uhh_git_logo.jpg){width="1029"}
+::: fragment
+![](../images/uhh_git_logo.jpg){width="1000"}
+:::
+
 
 ## Kahoot {{< fa gamepad >}}
