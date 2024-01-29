@@ -16,7 +16,7 @@ metadata-files:
 ## How are you today?
 
 ::: fragment
-![](../images/moodscale_+14.jpg){width="50%"}
+![](../images/moodscale_14.jpeg){width="50%"}
 :::
 
 ## Schedule
@@ -38,15 +38,21 @@ Please complete the surveys!
 
 ## Last week: DataLad Talk
 
+- **Question/Comments?**
+
 ```{=html}
 <iframe width="100%" height="80%" src="https://lennartwittkuhn.com/version-control-course-uhh-ws23/sessions/session13.html" title="DataLad Talk"></iframe>
 ```
 
-## Feedback survey
+## Seminar evaluation
 
-::: {.fragment}
+- **Thank you** for completing the evaluation
 
-[Feedback survey](): 
+- Any **more suggested improvements?**
 
-Please complete the survey!
-:::
+
+## Open Questions about Git or GitHub?
+
+
+## Kahoot {{< fa gamepad >}}
+

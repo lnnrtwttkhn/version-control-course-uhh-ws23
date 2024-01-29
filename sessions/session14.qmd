@@ -11,11 +11,6 @@ about:
       text: Slides
       href: slides_session14.qmd
       aria-label: display
-      aria-label: book
-    - icon: input-cursor-text
-      text: Survey
-      href: 
-      aria-label: input-cursor-text
 ---
 
 ::: {#hero-heading}
