@@ -32,7 +32,7 @@ create_schedule()
 ## Survey Participation
 
 ::: fragment
--   Please complete the surveys!
+-   **Thank you** for complete the surveys!
 :::
 
 ## Last week: DataLad Talk
@@ -52,11 +52,23 @@ create_schedule()
 
 ## Open Questions about Git or GitHub?
 
-## Logo Reveal
-
-::: fragment
-![](../images/uhh_git_logo.jpg){width="1000"}
-:::
-
+## Reviewing your Pull requests
 
 ## Kahoot {{< fa gamepad >}}
+
+## Logo Reveal
+
+::: columns
+::: {.column width="50%"}
+::: fragment
+![](../images/uhh_git_logo.jpg){fig-align="left"}
+:::
+:::
+
+::: {.column width="50%"}
+::: fragment
+![](../images/uhh_git_logo_orange.jpg){fig-align="right"}
+:::
+:::
+:::
+
