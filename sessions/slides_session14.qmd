@@ -58,17 +58,31 @@ create_schedule()
 
 ## Logo Reveal
 
-::: columns
+:::: columns
+::: {.column width="15%"}
+::: fragment
+![](../images/git-logo.png)
+:::
+:::
+::: {.column width="15%"}
+::: fragment
+![](../images/uhh-logo.png)
+:::
+:::
+::: {.column width="15%"}
+::: {style="font-size: 500%;"}
+::: fragment
+🪄
+:::
+:::
+:::
+::::
+
+:::: columns
 ::: {.column width="50%"}
 ::: fragment
 ![](../images/uhh_git_logo.jpg){fig-align="left"}
 :::
 :::
-
-::: {.column width="50%"}
-::: fragment
-![](../images/uhh_git_logo_orange.jpg){fig-align="right"}
-:::
-:::
-:::
+::::
 
