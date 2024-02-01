@@ -32,7 +32,7 @@ create_schedule()
 ## Survey Participation
 
 ::: fragment
--   **Thank you** for complete the surveys!
+-   **Thank you** for completing the surveys!
 :::
 
 ## Last week: DataLad Talk
@@ -52,7 +52,7 @@ create_schedule()
 
 ## Open Questions about Git or GitHub?
 
-## Reviewing your Pull requests
+## Reviewing your pull requests
 
 ## Kahoot {{< fa gamepad >}}
 
