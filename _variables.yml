@@ -13,8 +13,8 @@ links:
   formr: https://formr.org/
   email-secretary: sekretariat-luv.psych@uni-hamburg.de
   mailto-secretary: "mailto:{{< var links.email-secretary >}}"
-  email-mailing-list: "version-control-course.psych@lists.uni-hamburg.de"
-  mailto-mailing-list: "mailto:{{< var email-mailing-list >}}"
+  email-mailing-list: version-control-course.psych@lists.uni-hamburg.de
+  mailto-mailing-list: "mailto:{{< var links.email-mailing-list >}}"
   book: https://lennartwittkuhn.com/version-control-book/
 years: "2023 -- 2024"
 team:
