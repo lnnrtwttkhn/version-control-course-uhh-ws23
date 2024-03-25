@@ -147,6 +147,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <a class="nav-link" href="./code-of-conduct.html" rel="" target="">
  <span class="menu-text"><i class="fa-solid fa-circle-exclamation" aria-label="circle-exclamation"></i> Code of Conduct</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./acknowledgements.html" rel="" target="" aria-current="page">
+ <span class="menu-text"><i class="fa-solid fa-heart" aria-label="heart"></i> Acknowledgements</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -242,7 +246,7 @@ Click here to view the full <code>Makefile</code> of this project.
 <span id="cb1-7"><a href="#cb1-7"></a>    <span class="ex">quarto</span> preview</span>
 <span id="cb1-8"><a href="#cb1-8"></a></span>
 <span id="cb1-9"><a href="#cb1-9"></a><span class="ex">.PHONY:</span> render</span>
-<span id="cb1-10"><a href="#cb1-10"></a><span class="ex">render:</span></span>
+<span id="cb1-10"><a href="#cb1-10"></a><span class="ex">render:</span> clean images</span>
 <span id="cb1-11"><a href="#cb1-11"></a>    <span class="ex">quarto</span> render</span>
 <span id="cb1-12"><a href="#cb1-12"></a></span>
 <span id="cb1-13"><a href="#cb1-13"></a><span class="ex">.PHONY:</span> deploy</span>
@@ -539,11 +543,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link active" href="./acknowledgements.html" aria-current="page">Funded by the Digital and Data Literacy in Teaching Lab</a>
+    <a class="nav-link" href="./acknowledgements.html">Funded by the Digital and Data Literacy in Teaching Lab</a>
   </li>  
 </ul>
     </div>
-    <div class="nav-footer-right">License: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> | <a href="./acknowledgements.html" target="_self">Acknowledgements</a></div>
+    <div class="nav-footer-right">License: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div>
   </div>
 </footer>
 
