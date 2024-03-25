@@ -18,7 +18,7 @@ about:
     - icon: input-cursor-text
       text: Exercises
       href: https://version-control-versioncontrol.formr.org
-      aria-label:  input-cursor-text
+      aria-label: input-cursor-text
 ---
 
 ::: {#hero-heading}

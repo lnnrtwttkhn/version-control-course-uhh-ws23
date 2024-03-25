@@ -9,7 +9,7 @@ about:
   links:
     - icon: display
       text: Slides
-      href: https://lennartwittkuhn.com/quarto-workshop/#/title-slide
+      href: https://lennartwittkuhn.com/quarto-workshop/
       aria-label: display
 ---
 
